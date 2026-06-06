@@ -90,13 +90,13 @@ python notebooks/01_data_collection.py
 --
 ## Overview Dashboard
 --
-![Overview Dashboard](visuals/dashboard_overview.jpg)
+![Overview Dashboard](visuals/overview.jpg)
 --
 ## Box Office Analysis
 --
-![Box Office Analysis](visuals/box_office_analysis.jpg)
+![Box Office Analysis](visuals/box-office-analysis.jpg)
 --
 ## Director Gender Analysis
 --
-![Director Gender Analysis](visuals/director_gender_analysis.jpg)
+![Director Gender Analysis](visuals/director-gender.jpg)
 --
