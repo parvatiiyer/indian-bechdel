@@ -1,0 +1,300 @@
+title,language_label,year,primary_genre,director_gender_label,female_leads_top5,male_leads_top5,female_cast_ratio,female_lead_ratio,total_cast,female_in_full_cast,bechdel_proxy_score,bechdel_proxy_pass,revenue_inr_crore,budget_inr_crore,roi,vote_average,runtime,representation_tier
+3 Idiots,Hindi,2009,Drama,Male,1,4,19.2,20.0,26,5,0.0,False,460.0,75.15,6.78,8.0,171,No Representation
+Animal,Hindi,2023,Action,Male,2,3,16.5,40.0,158,26,2.0,False,917.0,108.55,7.33,6.119,201,Meaningful Presence
+Dangal,Hindi,2016,Drama,Male,4,1,20.0,80.0,25,5,2.0,False,2023.71,86.84,28.9,7.878,161,Meaningful Presence
+Like Stars on Earth,Hindi,2007,Drama,Male,1,4,17.6,20.0,17,3,0.0,False,237.3905,21.71,9.93,7.969,162,No Representation
+Jawan,Hindi,2023,Action,Male,2,3,9.3,40.0,205,19,2.0,False,1148.0,301.8525,2.78,7.077,169,Meaningful Presence
+Sultan,Hindi,2016,Drama,Male,1,4,23.5,20.0,17,4,0.0,False,623.0,86.84,8.81,6.861,170,No Representation
+My Name Is Khan,Hindi,2010,Drama,Male,2,2,25.6,40.0,43,11,2.0,False,353.583756,100.2,2.53,8.028,165,Meaningful Presence
+12th Fail,Hindi,2023,Drama,Male,1,4,12.0,20.0,25,3,0.0,False,69.305,20.04,2.46,7.9,146,No Representation
+Kill,Hindi,2024,Action,Male,1,4,6.2,20.0,81,5,0.0,False,46.76,40.08,0.17,7.105,105,No Representation
+Veer-Zaara,Hindi,2004,Drama,Male,4,1,23.3,80.0,30,7,2.0,False,245.367422,58.45,3.2,7.452,192,Meaningful Presence
+Dilwale,Hindi,2015,Crime,Male,2,3,9.5,40.0,21,2,2.0,False,509.35,217.1,1.35,6.6,158,Meaningful Presence
+Bhaag Milkha Bhaag,Hindi,2013,History,Male,3,2,26.7,60.0,15,4,2.0,False,208.75,38.41,4.43,7.5,186,Meaningful Presence
+Aashiqui 2,Hindi,2013,Drama,Male,1,4,12.5,20.0,8,1,0.0,False,133.6,10.855,11.31,6.84,132,No Representation
+PK,Hindi,2014,Comedy,Male,1,4,27.3,20.0,22,6,0.0,False,854.0,108.55,8.15,7.695,153,No Representation
+Chennai Express,Hindi,2013,Romance,Male,1,4,18.8,20.0,16,3,0.0,False,517.7,150.3,2.44,6.52,141,No Representation
+Raees,Hindi,2017,Thriller,Male,2,3,27.3,40.0,11,3,2.0,False,,384.1,,6.663,143,Meaningful Presence
+Pathaan,Hindi,2023,Action,Male,2,3,5.7,40.0,53,3,2.0,False,1050.0,252.7545,3.2,6.413,146,Meaningful Presence
+Fighter,Hindi,2024,Action,Male,2,3,9.0,40.0,67,6,2.0,False,360.3906593,251.080325,0.44,6.157,167,Meaningful Presence
+Dhoom 3,Hindi,2013,Action,Unknown,1,4,41.2,20.0,17,7,0.0,False,759.85,162.825,3.67,6.0,171,No Representation
+Bajirao Mastani,Hindi,2015,History,Male,3,2,26.7,60.0,15,4,2.0,False,467.6,162.825,1.87,7.257,158,Meaningful Presence
+Drishyam 2,Hindi,2022,Thriller,Male,3,2,27.3,60.0,22,6,2.0,False,342.35,60.12,4.69,8.014,140,Meaningful Presence
+Mohabbatein,Hindi,2000,Drama,Male,0,5,27.6,0.0,29,8,0.0,False,167.0,33.4,4.0,7.087,216,No Representation
+Kabir Singh,Hindi,2019,Drama,Male,2,3,23.1,40.0,13,3,2.0,False,463.2426694,73.07085,5.34,6.3,172,Meaningful Presence
+Tumbbad,Hindi,2018,Fantasy,Male,0,2,11.8,0.0,17,2,0.0,False,,,,7.581,113,No Representation
+Gangs of Wasseypur - Part 1,Hindi,2012,Action,Male,2,3,23.5,40.0,17,4,2.0,False,34.235,11.69,1.93,7.076,160,Meaningful Presence
+Drishyam,Hindi,2015,Mystery,Male,3,1,18.8,60.0,16,3,2.0,False,150.3,38.41,2.91,7.542,163,Meaningful Presence
+Padmaavat,Hindi,2018,Drama,Male,1,4,8.5,20.0,47,4,0.0,False,681.97703995,258.85,1.63,6.9,163,No Representation
+Zindagi Na Milegi Dobara,Hindi,2011,Drama,Female,2,3,38.1,40.0,21,8,3.0,True,153.0,64.295,19.78,7.59,154,Female-led & Directed
+War,Hindi,2019,Action,Male,2,3,18.2,40.0,22,4,2.0,False,563.959,201.569,1.8,6.747,152,Meaningful Presence
+Shershaah,Hindi,2021,Action,Male,1,4,7.1,20.0,14,1,0.0,False,,,,7.302,135,No Representation
+Gangubai Kathiawadi,Hindi,2022,Crime,Male,3,2,30.4,60.0,23,7,2.0,False,211.255,100.2,1.11,7.463,157,Meaningful Presence
+Krrish,Hindi,2006,Action,Male,2,3,40.0,40.0,15,6,2.0,False,133.6,41.75,2.2,6.502,174,Meaningful Presence
+Om Shanti Om,Hindi,2007,Comedy,Female,2,3,32.9,40.0,85,28,3.0,True,314.8571574,75.985,3.14,7.116,169,Female-led & Directed
+Don,Hindi,2006,Action,Male,1,4,16.0,20.0,25,4,0.0,False,125.25,41.75,2.0,6.913,178,No Representation
+Brahmāstra Part One: Shiva,Hindi,2022,Action,Male,2,3,29.2,40.0,24,7,2.0,False,,183.7,,6.321,168,Meaningful Presence
+Chhichhore,Hindi,2019,Romance,Male,1,4,6.7,20.0,15,1,0.0,False,245.09802595,56.98875,3.3,7.678,146,No Representation
+Sooryavanshi,Hindi,2021,Action,Male,1,4,12.1,20.0,33,4,0.0,False,292.25,108.55,1.69,5.8,145,No Representation
+Tu Jhoothi Main Makkaar,Hindi,2023,Comedy,Male,2,2,23.8,40.0,21,5,2.0,False,,,,6.3,159,Meaningful Presence
+Ra.One,Hindi,2011,Adventure,Male,1,3,28.6,20.0,21,6,0.0,False,299.86260315,200.4,0.5,5.736,156,No Representation
+Happy New Year,Hindi,2014,Action,Female,1,4,15.6,20.0,32,5,0.0,False,,208.75,,6.121,180,No Representation
+Devdas,Hindi,2002,Drama,Male,3,2,47.6,60.0,21,10,2.0,False,111.14782695,55.64068425,1.0,7.499,185,Meaningful Presence
+Kabhi Khushi Kabhie Gham,Hindi,2001,Comedy,Male,2,3,33.3,40.0,33,11,2.0,False,94.6581718,62.625,0.51,7.663,209,Meaningful Presence
+Chak De! India,Hindi,2007,Drama,Male,4,1,34.6,80.0,26,9,2.0,False,334.0,52.605,5.35,7.193,148,Meaningful Presence
+Rockstar,Hindi,2011,Drama,Male,2,3,36.4,40.0,11,4,2.0,False,164.161,91.182,0.8,7.281,159,Meaningful Presence
+Andhadhun,Hindi,2018,Crime,Male,2,3,35.7,40.0,14,5,2.0,False,334.0,37.575,7.89,7.604,139,Meaningful Presence
+Yeh Jawaani Hai Deewani,Hindi,2013,Romance,Male,2,3,56.2,40.0,16,9,2.0,False,384.1,64.295,4.97,7.28,160,Meaningful Presence
+Rab Ne Bana Di Jodi,Hindi,2008,Comedy,Male,1,4,34.6,20.0,26,9,0.0,False,249.78581615,,,7.116,167,No Representation
+Hichki,Hindi,2018,Drama,Male,1,4,21.1,20.0,19,4,0.0,False,214.0101159,16.7,11.81,7.6,116,No Representation
+Main Hoon Na,Hindi,2004,Drama,Female,2,3,27.3,40.0,22,6,3.0,True,49.432,,,6.6,179,Female-led & Directed
+The Lunchbox,Hindi,2013,Drama,Male,2,3,10.3,40.0,39,4,2.0,False,143.954,28.39,4.07,7.375,104,Meaningful Presence
+Tiger Zinda Hai,Hindi,2017,Action,Male,1,4,18.5,20.0,27,5,0.0,False,723.1935,158.65,3.56,6.251,160,No Representation
+Raid,Hindi,2018,Crime,Male,3,2,27.3,60.0,11,3,2.0,False,150.3,39.245,2.83,7.165,120,Meaningful Presence
+Dhoom 2,Hindi,2006,Drama,Unknown,2,3,23.1,40.0,13,3,2.0,False,387.41016545,91.85,3.22,6.627,151,Meaningful Presence
+Secret Superstar,Hindi,2017,Drama,Male,2,2,33.3,40.0,12,4,2.0,False,966.0,2.3904714,479.0,7.258,150,Meaningful Presence
+Ghajini,Hindi,2008,Action,Male,2,3,33.3,40.0,15,5,2.0,False,634.6,75.985,7.35,7.016,186,Meaningful Presence
+Uri: The Surgical Strike,Hindi,2019,Action,Male,2,3,12.8,40.0,47,6,2.0,False,,,,7.039,138,Meaningful Presence
+Lust Stories,Hindi,2018,Drama,Male,3,2,50.0,60.0,18,9,2.0,False,,,,6.215,120,Meaningful Presence
+Cocktail,Hindi,2012,Romance,Male,2,3,44.4,40.0,9,4,2.0,False,150.3,42.585,2.53,6.119,146,Meaningful Presence
+Gangs of Wasseypur - Part 2,Hindi,2012,Crime,Male,2,3,19.0,40.0,21,4,2.0,False,40.915,13.9445,1.93,7.752,160,Meaningful Presence
+Munna Bhai M.B.B.S.,Hindi,2003,Comedy,Male,1,4,28.6,20.0,21,6,0.0,False,,,,7.187,156,No Representation
+Lagaan: Once Upon a Time in India,Hindi,2001,Adventure,Male,3,2,8.1,60.0,37,3,2.0,False,67.635,43.42,0.56,7.252,233,Meaningful Presence
+Bajrangi Bhaijaan,Hindi,2015,Comedy,Male,2,3,22.2,40.0,18,4,2.0,False,969.06,108.55,10.54,7.798,159,Meaningful Presence
+Dil Dhadakne Do,Hindi,2015,Drama,Female,3,2,18.6,60.0,43,8,3.0,True,183.7,108.55,0.69,6.867,170,Female-led & Directed
+Bang Bang!,Hindi,2014,Action,Male,1,4,16.7,20.0,12,2,0.0,False,,,,6.204,153,No Representation
+Gully Boy,Hindi,2019,Drama,Female,1,4,47.1,20.0,17,8,0.0,False,236.3008083,48.28682255,3.89,7.4,156,No Representation
+Goliyon Ki Raasleela Ram-Leela,Hindi,2013,Drama,Male,3,2,41.7,60.0,12,5,2.0,False,267.2,,,6.973,155,Meaningful Presence
+Dunki,Hindi,2023,Adventure,Male,1,3,2.9,20.0,136,4,0.0,False,125.25,121.075,0.03,6.315,159,No Representation
+Rustom,Hindi,2016,Thriller,Male,3,2,21.4,60.0,14,3,2.0,False,219.6819369,51.05481415,3.3,6.679,148,Meaningful Presence
+Fanaa,Hindi,2006,Action,Male,3,2,44.4,60.0,18,8,2.0,False,185.1688318,44.255,3.18,6.776,168,Meaningful Presence
+Ek Tha Tiger,Hindi,2012,Action,Male,1,4,5.6,20.0,36,2,0.0,False,523.4615,117.234,3.47,6.191,133,No Representation
+Sanju,Hindi,2018,Drama,Male,2,3,43.8,40.0,16,7,2.0,False,562.91512475,183.0204603,2.08,7.2,161,Meaningful Presence
+Prem Ratan Dhan Payo,Hindi,2015,Romance,Male,2,3,27.8,40.0,18,5,2.0,False,559.45,195.39,1.86,5.285,164,Meaningful Presence
+M.S. Dhoni: The Untold Story,Hindi,2016,Drama,Male,2,3,25.9,40.0,27,7,2.0,False,,,,7.24,190,Meaningful Presence
+Stree,Hindi,2018,Horror,Unknown,1,4,17.4,20.0,23,4,0.0,False,175.35,23.38,6.5,6.934,128,No Representation
+Kal Ho Naa Ho,Hindi,2003,Comedy,Male,3,2,45.9,60.0,37,17,2.0,False,110.341242,,,7.458,187,Meaningful Presence
+Kabhi Alvida Naa Kehna,Hindi,2006,Drama,Male,2,3,31.8,40.0,22,7,2.0,False,141.95,61.79,1.3,6.437,193,Meaningful Presence
+Ae Dil Hai Mushkil,Hindi,2016,Romance,Male,3,2,50.0,60.0,14,7,2.0,False,,,,6.4,158,Meaningful Presence
+Baaghi 3,Hindi,2020,Action,Unknown,2,3,23.1,40.0,13,3,2.0,False,154.2543095,66.4029575,1.32,6.3,144,Meaningful Presence
+Haseen Dillruba,Hindi,2021,Romance,Unknown,2,3,22.2,40.0,18,4,2.0,False,,,,6.771,136,Meaningful Presence
+Gabbar Is Back,Hindi,2015,Drama,Male,1,4,31.2,20.0,16,5,0.0,False,342.35,91.85,2.73,6.891,130,No Representation
+Badla,Hindi,2019,Crime,Male,2,3,21.1,40.0,19,4,2.0,False,,,,7.266,120,Meaningful Presence
+Don 2,Hindi,2011,Action,Male,2,3,20.0,40.0,20,4,2.0,False,24.215,91.85,-0.74,6.971,139,Meaningful Presence
+Adipurush,Hindi,2023,Action,Unknown,1,3,14.8,20.0,27,4,0.0,False,453.405,526.05,-0.14,4.604,179,No Representation
+Bhool Bhulaiyaa,Hindi,2007,Comedy,Male,2,3,40.0,40.0,15,6,2.0,False,82.665,31.73,1.61,6.743,158,Meaningful Presence
+Billu,Hindi,2009,Comedy,Male,1,4,22.2,20.0,27,6,0.0,False,83.5,48.0125,0.74,6.406,137,No Representation
+Zero,Hindi,2018,Romance,Male,2,3,45.5,40.0,33,15,2.0,False,,217.1,,5.18,164,Meaningful Presence
+Kick,Hindi,2014,Action,Male,1,4,25.0,20.0,16,4,0.0,False,459.25,183.7,1.5,5.7,146,No Representation
+Student Of The Year,Hindi,2012,Comedy,Male,2,3,50.0,40.0,22,11,2.0,False,114.81090515,70.0725487,0.64,5.792,146,Meaningful Presence
+Jaane Jaan,Hindi,2023,Crime,Male,2,3,35.7,40.0,14,5,2.0,False,,,,7.04,139,Meaningful Presence
+Sanam Teri Kasam,Hindi,2016,Drama,Unknown,1,4,12.5,20.0,8,1,0.0,False,,,,7.854,154,No Representation
+Main Tera Hero,Hindi,2014,Romance,Male,2,3,25.0,40.0,16,4,2.0,False,,,,5.682,128,Meaningful Presence
+Jab Tak Hai Jaan,Hindi,2012,Drama,Male,3,2,25.0,60.0,16,4,2.0,False,233.31721135,50.82908025,3.59,7.047,176,Meaningful Presence
+Bulbbul,Hindi,2020,Horror,Female,2,3,20.0,40.0,15,3,3.0,True,,,,6.592,94,Female-led & Directed
+Ittefaq,Hindi,2017,Crime,Unknown,2,3,25.0,40.0,12,3,2.0,False,65.965,36.74,0.8,6.828,107,Meaningful Presence
+Monsoon Wedding,Hindi,2001,Comedy,Female,3,2,13.6,60.0,59,8,3.0,True,257.0744226,10.02,24.66,6.793,114,Female-led & Directed
+Super 30,Hindi,2019,Drama,Male,1,4,25.0,20.0,20,5,0.0,False,,,,7.267,153,No Representation
+Attack,Hindi,2022,Action,Unknown,2,2,17.6,40.0,17,3,2.0,False,21.71,80.16,-0.73,6.8,123,Meaningful Presence
+Rang De Basanti,Hindi,2006,Comedy,Male,0,5,23.8,0.0,21,5,0.0,False,96.04296085,18.37,4.23,7.071,157,No Representation
+Go Goa Gone,Hindi,2013,Comedy,Male,1,4,16.7,20.0,18,3,0.0,False,45.09,22.545,1.0,5.865,111,No Representation
+Dhoom,Hindi,2004,Action,Unknown,2,3,19.0,40.0,21,4,2.0,False,100.2,12.525,7.0,6.233,129,Meaningful Presence
+Jolly LLB 2,Hindi,2017,Comedy,Unknown,1,4,6.1,20.0,33,2,0.0,False,13.630874,37.408,-0.64,6.923,140,No Representation
+Baaghi,Hindi,2016,Action,Unknown,1,4,8.3,20.0,12,1,0.0,False,145.09795,42.61005,2.41,6.4,134,No Representation
+Aśoka,Hindi,2001,Action,Male,2,3,19.0,40.0,21,4,2.0,False,158.65,141.95,0.12,6.5,175,Meaningful Presence
+Baghban,Hindi,2003,Drama,Male,2,3,25.9,40.0,27,7,2.0,False,40.08,,,6.903,183,Meaningful Presence
+Mardaani,Hindi,2014,Action,Male,2,2,21.1,40.0,19,4,2.0,False,63.46,17.535,2.62,6.637,113,Meaningful Presence
+Jodhaa Akbar,Hindi,2008,Romance,Male,2,3,10.0,40.0,60,6,2.0,False,239.645,48.43,3.95,7.328,213,Meaningful Presence
+Wanted,Hindi,2009,Action,Male,1,4,14.3,20.0,21,3,0.0,False,,,,5.866,155,No Representation
+Article 15,Hindi,2019,Crime,Male,2,3,25.0,40.0,16,4,2.0,False,,,,7.561,130,Meaningful Presence
+Swades,Hindi,2004,Drama,Male,2,3,7.7,40.0,26,2,2.0,False,40.08,24.215,0.66,7.319,195,Meaningful Presence
+Madras Cafe,Hindi,2013,Thriller,Male,2,2,33.3,40.0,15,5,2.0,False,54.275,45.09,0.2,6.615,130,Meaningful Presence
+Raanjhanaa,Hindi,2013,Drama,Male,2,3,20.0,40.0,15,3,2.0,False,9.78420435,53.44,-0.82,6.623,140,Meaningful Presence
+Hera Pheri,Hindi,2000,Comedy,Male,1,4,19.0,20.0,21,4,0.0,False,39.70425,13.9111,1.85,7.073,156,No Representation
+Agneepath,Hindi,2012,Action,Unknown,2,3,19.0,40.0,21,4,2.0,False,233.8,72.645,2.22,6.3,174,Meaningful Presence
+Ek Villain,Hindi,2014,Romance,Male,2,3,42.9,40.0,14,6,2.0,False,10.6722018,,,6.524,129,Meaningful Presence
+Chup Chup Ke,Hindi,2006,Comedy,Male,2,3,30.8,40.0,13,4,2.0,False,32.67103665,,,6.229,165,Meaningful Presence
+Desi Boyz,Hindi,2011,Comedy,Male,2,3,29.4,40.0,17,5,2.0,False,,,,6.275,122,Meaningful Presence
+Guru,Hindi,2007,Drama,Male,2,3,23.8,40.0,21,5,2.0,False,258.85,39.245,5.6,6.9,166,Meaningful Presence
+Krrish 3,Hindi,2013,Action,Male,2,3,16.7,40.0,18,3,2.0,False,701.4,167.0,3.2,5.672,152,Meaningful Presence
+English Vinglish,Hindi,2012,Comedy,Female,3,2,33.3,60.0,18,6,3.0,True,97.027,23.714,3.09,7.232,134,Female-led & Directed
+Dear Zindagi,Hindi,2016,Drama,Female,1,4,18.2,20.0,22,4,0.0,False,28.19273125,35.905,-0.21,7.002,151,No Representation
+Badrinath Ki Dulhania,Hindi,2017,Drama,Male,3,2,29.4,60.0,17,5,2.0,False,218.22148015,,,6.441,139,Meaningful Presence
+Sir,Hindi,2018,Drama,Female,3,1,50.0,60.0,12,6,3.0,True,,,,7.086,99,Female-led & Directed
+Welcome,Hindi,2007,Comedy,Male,1,4,20.0,20.0,20,4,0.0,False,304.775,,,6.877,150,No Representation
+Raazi,Hindi,2018,Thriller,Female,1,4,6.3,20.0,63,4,0.0,False,198.73,37.575,4.29,7.201,138,No Representation
+Lakshya,Hindi,2004,War,Male,1,4,8.7,20.0,23,2,0.0,False,38.41,37.575,0.02,6.7,186,No Representation
+Chor Nikal Ke Bhaga,Hindi,2023,Crime,Unknown,1,4,4.2,20.0,24,1,0.0,False,,,,6.869,110,No Representation
+Special 26,Hindi,2013,Crime,Male,1,4,16.7,20.0,24,4,0.0,False,150.3,59.285,1.54,7.309,144,No Representation
+Raman Raghav 2.0,Hindi,2016,Thriller,Male,2,3,21.4,40.0,14,3,2.0,False,8.4662821,4.35763955,0.94,7.015,134,Meaningful Presence
+Dabangg 2,Hindi,2012,Action,Male,1,4,31.6,20.0,19,6,0.0,False,,113.9775,,5.0,125,No Representation
+Phir Hera Pheri,Hindi,2006,Comedy,Male,2,3,18.5,40.0,27,5,2.0,False,128.256,33.4,2.84,6.884,155,Meaningful Presence
+Housefull 4,Hindi,2019,Comedy,Male,2,3,23.5,40.0,17,4,2.0,False,292.25,150.3,0.94,5.598,142,Meaningful Presence
+Mujhse Shaadi Karogi,Hindi,2004,Romance,Male,2,3,27.8,40.0,18,5,2.0,False,,,,6.508,163,Meaningful Presence
+Barfi!,Hindi,2012,Drama,Male,2,3,23.1,40.0,26,6,2.0,False,23.4206979,37.0531918,-0.37,7.61,151,Meaningful Presence
+Kaho Naa... Pyaar Hai,Hindi,2000,Romance,Male,1,4,23.5,20.0,17,4,0.0,False,,,,6.712,172,No Representation
+Koi... Mil Gaya,Hindi,2003,Science Fiction,Male,2,2,22.7,40.0,22,5,2.0,False,83.5,31.3125,1.67,7.014,165,Meaningful Presence
+Wake Up Sid,Hindi,2009,Comedy,Male,2,3,60.0,40.0,10,6,2.0,False,91.85,25.05,2.67,7.235,138,Meaningful Presence
+Bodyguard,Hindi,2011,Drama,Male,2,3,37.5,40.0,16,6,2.0,False,,,,5.226,134,Meaningful Presence
+Bhoothnath,Hindi,2008,Family,Male,1,4,25.0,20.0,24,6,0.0,False,,,,6.217,151,No Representation
+Judwaa 2,Hindi,2017,Action,Male,3,2,15.0,60.0,20,3,2.0,False,288.075,83.5,2.45,5.4,150,Meaningful Presence
+Housefull,Hindi,2010,Comedy,Male,2,3,47.1,40.0,17,8,2.0,False,125.25,29.225,3.29,5.746,135,Meaningful Presence
+Haider,Hindi,2014,Crime,Male,2,2,11.8,40.0,17,2,2.0,False,96.025,58.45,0.64,7.2,150,Meaningful Presence
+Tamasha,Hindi,2015,Romance,Male,1,4,22.2,20.0,18,4,0.0,False,,,,6.9,139,No Representation
+Gunday,Hindi,2014,Action,Male,1,4,6.2,20.0,16,1,0.0,False,,,,4.881,152,No Representation
+Chalte Chalte,Hindi,2003,Comedy,Male,2,2,30.8,40.0,13,4,2.0,False,150.3,38.41,2.91,6.3,175,Meaningful Presence
+Lost Ladies,Hindi,2024,Comedy,Female,3,2,10.0,60.0,40,4,3.0,True,25.26,,,7.811,123,Female-led & Directed
+Badhaai Ho,Hindi,2018,Comedy,Unknown,3,2,60.0,60.0,10,6,2.0,False,325.65,33.4,8.75,7.196,125,Meaningful Presence
+Pad Man,Hindi,2018,Comedy,Male,3,1,45.5,60.0,11,5,2.0,False,192.05,83.5,1.3,7.439,140,Meaningful Presence
+Ludo,Hindi,2020,Crime,Male,1,3,18.2,20.0,22,4,0.0,False,,,,7.164,150,No Representation
+Talaash,Hindi,2012,Crime,Female,2,3,40.9,40.0,22,9,3.0,True,,71.0585,,6.766,149,Female-led & Directed
+Talvar,Hindi,2015,Thriller,Female,1,4,23.1,20.0,13,3,0.0,False,,,,7.482,132,No Representation
+Rowdy Rathore,Hindi,2012,Action,Male,1,4,27.3,20.0,22,6,0.0,False,258.85,55.945,3.63,5.932,143,No Representation
+Ajab Prem Ki Ghazab Kahani,Hindi,2009,Romance,Male,1,4,26.7,20.0,15,4,0.0,False,217.1,,,6.211,150,No Representation
+Badlapur,Hindi,2015,Crime,Male,3,2,50.0,60.0,12,6,2.0,False,95.858,30.895,2.1,7.0,134,Meaningful Presence
+"Monica, O My Darling",Hindi,2022,Crime,Male,2,3,31.2,40.0,16,5,2.0,False,,,,6.962,129,Meaningful Presence
+Dil Bechara,Hindi,2020,Drama,Male,2,3,36.4,40.0,11,4,2.0,False,,0.02525875,,6.701,101,Meaningful Presence
+Jab Harry Met Sejal,Hindi,2017,Comedy,Male,2,2,25.0,40.0,12,3,2.0,False,128.2590728,138.61,-0.07,6.379,144,Meaningful Presence
+Dabangg,Hindi,2010,Action,Male,1,4,23.5,20.0,17,4,0.0,False,,78.2395,,5.8,130,No Representation
+Race 2,Hindi,2013,Action,Male,2,3,36.4,40.0,11,4,2.0,False,,0.00014195,,5.43,150,Meaningful Presence
+Humpty Sharma Ki Dulhania,Hindi,2014,Drama,Male,1,3,25.0,20.0,8,2,0.0,False,,,,6.4,133,No Representation
+Dil Chahta Hai,Hindi,2001,Drama,Male,2,3,26.9,40.0,26,7,2.0,False,34.22665,17.35965,0.97,6.853,183,Meaningful Presence
+Nayak: The Real Hero,Hindi,2001,Drama,Male,1,4,18.2,20.0,22,4,0.0,False,,,,7.099,187,No Representation
+Jab We Met,Hindi,2007,Drama,Male,1,4,22.2,20.0,18,4,0.0,False,84.0480105,19.205,3.38,7.313,138,No Representation
+Ek Villain Returns,Hindi,2022,Action,Male,2,3,14.3,40.0,21,3,2.0,False,,,,6.0,127,Meaningful Presence
+Kites,Hindi,2010,Drama,Male,2,3,25.0,40.0,20,5,2.0,False,,,,7.2,123,Meaningful Presence
+Masaan,Hindi,2015,Drama,Male,2,3,22.2,40.0,9,2,2.0,False,,,,7.103,109,Meaningful Presence
+Junglee,Hindi,2019,Action,Male,2,3,16.7,40.0,12,2,2.0,False,,,,6.8,115,Meaningful Presence
+Kesari,Hindi,2019,Action,Unknown,1,3,5.3,20.0,38,2,0.0,False,,,,7.075,151,No Representation
+Dhamaka,Hindi,2021,Thriller,Male,2,3,15.4,40.0,13,2,2.0,False,,,,6.791,104,Meaningful Presence
+OMG: Oh My God!,Hindi,2012,Comedy,Unknown,0,5,12.5,0.0,24,3,0.0,False,158.65,20.875,6.6,7.244,125,No Representation
+Ready,Hindi,2011,Action,Male,1,4,21.4,20.0,28,6,0.0,False,225.45,48.43,3.66,5.054,140,No Representation
+Dum Laga Ke Haisha,Hindi,2015,Comedy,Unknown,3,2,40.0,60.0,10,4,2.0,False,,,,7.191,111,Meaningful Presence
+Dhamaal,Hindi,2007,Comedy,Male,0,5,3.3,0.0,30,1,0.0,False,,,,6.7,135,No Representation
+Hasee Toh Phasee,Hindi,2014,Comedy,Unknown,2,3,25.0,40.0,16,4,2.0,False,,,,6.566,141,Meaningful Presence
+Mom,Hindi,2017,Crime,Male,2,3,35.7,40.0,14,5,2.0,False,,,,7.542,147,Meaningful Presence
+Tees Maar Khan,Hindi,2010,Comedy,Female,1,4,16.7,20.0,24,4,0.0,False,,,,3.692,137,No Representation
+Baby,Hindi,2015,Action,Male,0,5,4.5,0.0,66,3,0.0,False,,,,6.816,160,No Representation
+Fan,Hindi,2016,Action,Male,3,2,25.9,60.0,27,7,2.0,False,233.8,106.4625,1.2,6.282,138,Meaningful Presence
+Singh Is Kinng,Hindi,2008,Action,Male,2,3,20.0,40.0,15,3,2.0,False,208.75,116.9,0.79,5.668,135,Meaningful Presence
+Garam Masala,Hindi,2005,Comedy,Male,2,3,38.5,40.0,13,5,2.0,False,,,,6.0,142,Meaningful Presence
+Lage Raho Munna Bhai,Hindi,2006,Comedy,Male,1,4,17.4,20.0,23,4,0.0,False,263.17163435,15.03,16.51,7.3,144,No Representation
+Kaabil,Hindi,2017,Action,Male,1,3,18.2,20.0,11,2,0.0,False,,43.42,,6.908,139,No Representation
+Pink,Hindi,2016,Drama,Male,3,2,38.5,60.0,13,5,2.0,False,125.4228617,626.25,-0.8,7.367,136,Meaningful Presence
+Udta Punjab,Hindi,2016,Crime,Male,2,3,14.3,40.0,14,2,2.0,False,124.415,49.933,1.49,7.23,148,Meaningful Presence
+Thugs of Hindostan,Hindi,2018,Adventure,Unknown,2,3,13.6,40.0,22,3,2.0,False,26.1856,258.85,-0.9,5.536,164,Meaningful Presence
+Partner,Hindi,2007,Comedy,Male,2,3,27.8,40.0,18,5,2.0,False,167.0,,,5.525,143,Meaningful Presence
+Singham,Hindi,2011,Drama,Male,1,4,14.3,20.0,14,2,0.0,False,250.5,40.08,5.25,6.533,143,No Representation
+Heyy Babyy,Hindi,2007,Comedy,Male,1,4,52.2,20.0,23,12,0.0,False,18.37,78.49,-0.77,5.884,150,No Representation
+Band Baaja Baaraat,Hindi,2010,Comedy,Male,1,3,6.7,20.0,30,2,0.0,False,61.79,27.555,1.24,6.7,139,No Representation
+Kahaani,Hindi,2012,Mystery,Male,1,4,15.8,20.0,19,3,0.0,False,133.6,10.02,12.33,7.182,122,No Representation
+Delhi Belly,Hindi,2011,Action,Male,2,3,4.6,40.0,65,3,2.0,False,150.59225,34.1515,3.41,7.078,102,Meaningful Presence
+Hum Tum,Hindi,2004,Romance,Male,3,2,50.0,60.0,10,5,2.0,False,15.6871617,,,6.435,142,Meaningful Presence
+Race,Hindi,2008,Drama,Male,2,3,36.4,40.0,11,4,2.0,False,,,,6.109,161,Meaningful Presence
+Vicky Donor,Hindi,2012,Comedy,Male,2,2,40.0,40.0,10,4,2.0,False,,5.845,,6.77,122,Meaningful Presence
+Kapoor & Sons,Hindi,2016,Drama,Male,2,3,12.5,40.0,24,3,2.0,False,145.39543545,29.86914405,3.87,7.048,137,Meaningful Presence
+Paheli,Hindi,2005,Romance,Male,2,3,33.3,40.0,21,7,2.0,False,91.85,40.915,1.24,6.144,141,Meaningful Presence
+Sardar Udham,Hindi,2021,Crime,Male,1,4,9.1,20.0,22,2,0.0,False,,,,7.115,162,No Representation
+R... Rajkumar,Hindi,2013,Action,Male,1,4,30.8,20.0,13,4,0.0,False,,,,6.155,146,No Representation
+Udaan,Hindi,2010,Drama,Male,0,5,0.0,0.0,47,0,0.0,False,4.342,6.68,-0.35,7.206,138,No Representation
+Hindi Medium,Hindi,2017,Comedy,Unknown,3,2,47.6,60.0,21,10,2.0,False,437.4565,26.8351465,15.3,7.381,132,Meaningful Presence
+Khoobsurat,Hindi,2014,Comedy,Unknown,4,1,36.4,80.0,11,4,2.0,False,,0.0019205,,6.598,130,Meaningful Presence
+Namastey London,Hindi,2007,Comedy,Male,1,4,36.4,20.0,11,4,0.0,False,,,,6.19,131,No Representation
+Housefull 2,Hindi,2012,Comedy,Male,1,4,33.3,20.0,15,5,0.0,False,183.7,59.285,2.1,5.551,160,No Representation
+Housefull 3,Hindi,2016,Comedy,Male,2,3,23.5,40.0,17,4,2.0,False,192.05,108.55,0.77,5.1,140,Meaningful Presence
+Love Aaj Kal,Hindi,2009,Comedy,Male,1,3,46.2,20.0,13,6,0.0,False,173.63812475,104.375,0.66,6.243,128,No Representation
+Aladin,Hindi,2009,Fantasy,Male,2,3,37.5,40.0,8,3,2.0,False,,,,6.2,132,Meaningful Presence
+Dostana,Hindi,2008,Drama,Unknown,2,3,35.7,40.0,14,5,2.0,False,167.0,83.5,1.0,6.142,141,Meaningful Presence
+Toilet: A Love Story,Hindi,2017,Comedy,Unknown,1,4,44.4,20.0,9,4,0.0,False,115.23,30.895,2.73,6.813,155,No Representation
+Karthik Calling Karthik,Hindi,2010,Romance,Unknown,2,3,9.1,40.0,22,2,2.0,False,32.565,23.38,0.39,6.3,135,Meaningful Presence
+Holiday,Hindi,2014,Action,Male,1,4,15.4,20.0,26,4,0.0,False,,,,6.339,170,No Representation
+A Wednesday!,Hindi,2008,Drama,Male,1,4,10.0,20.0,20,2,0.0,False,29.225,11.69,1.5,7.0,103,No Representation
+Golmaal Again,Hindi,2017,Comedy,Male,0,5,20.0,0.0,20,4,0.0,False,308.95,70.14,3.4,5.414,151,No Representation
+Guzaarish,Hindi,2010,Drama,Male,2,2,35.0,40.0,20,7,2.0,False,,,,7.377,126,Meaningful Presence
+Golmaal – Fun Unlimited,Hindi,2006,Comedy,Male,0,5,18.2,0.0,11,2,0.0,False,40.915,15.03,1.72,6.743,150,No Representation
+Golmaal Returns,Hindi,2008,Comedy,Male,1,4,40.0,20.0,20,8,0.0,False,80.16,35.07,1.29,5.477,136,No Representation
+Neerja,Hindi,2016,Drama,Male,2,3,22.2,40.0,9,2,2.0,False,147.112638,24.215,5.08,7.266,122,Meaningful Presence
+Singham Returns,Hindi,2014,Action,Male,1,4,15.4,20.0,13,2,0.0,False,217.1,108.55,1.0,6.118,142,No Representation
+October,Hindi,2018,Drama,Male,2,1,13.3,40.0,15,2,2.0,False,,,,6.951,109,Meaningful Presence
+Piku,Hindi,2015,Comedy,Male,2,3,30.0,40.0,10,3,2.0,False,185.0294536,45.925,3.03,7.1,123,Meaningful Presence
+Black,Hindi,2005,Drama,Male,3,2,26.1,60.0,23,6,2.0,False,67.04606615,22.14734795,2.03,7.675,124,Meaningful Presence
+Blackmail,Hindi,2018,Comedy,Male,2,3,41.7,40.0,12,5,2.0,False,,,,6.863,138,Meaningful Presence
+Jolly LLB,Hindi,2013,Comedy,Unknown,1,4,10.0,20.0,20,2,0.0,False,,,,7.082,135,No Representation
+Parmanu: The Story of Pokhran,Hindi,2018,Drama,Unknown,1,4,20.0,20.0,10,2,0.0,False,,61.83175,,7.1,129,No Representation
+Airlift,Hindi,2016,Drama,Male,1,3,15.8,20.0,19,3,0.0,False,267.2,37.575,6.11,7.11,126,No Representation
+Detective Byomkesh Bakshy!,Hindi,2015,Action,Male,1,3,8.3,20.0,24,2,0.0,False,43.42,42.585,0.02,6.727,139,No Representation
+Tanu Weds Manu: Returns,Hindi,2015,Comedy,Male,2,3,14.3,40.0,14,2,2.0,False,327.9045,51.37755,5.38,6.88,128,Meaningful Presence
+Queen,Hindi,2014,Comedy,Male,2,3,25.0,40.0,8,2,2.0,False,141.95,15.865,7.95,7.319,146,Meaningful Presence
+Salaam Namaste,Hindi,2005,Comedy,Male,1,4,14.3,20.0,7,1,0.0,False,,20.875,,6.243,158,No Representation
+Jaane Tu... Ya Jaane Na,Hindi,2008,Drama,Unknown,3,2,16.7,60.0,30,5,2.0,False,92.685,19.205,3.83,6.836,155,Meaningful Presence
+Sonu Ke Titu Ki Sweety,Hindi,2018,Romance,Male,2,3,21.9,40.0,32,7,2.0,False,,,,6.574,144,Meaningful Presence
+Kaminey,Hindi,2009,Action,Male,1,3,15.4,20.0,13,2,0.0,False,151.3855,75.15,1.01,6.7,135,No Representation
+Paan Singh Tomar,Hindi,2012,Crime,Male,1,3,7.7,20.0,13,1,0.0,False,,,,7.391,135,No Representation
+2 States,Hindi,2014,Comedy,Unknown,3,2,36.4,60.0,11,4,2.0,False,187.16200185,38.3080131,3.89,6.5,149,Meaningful Presence
+Bareilly Ki Barfi,Hindi,2017,Comedy,Female,1,3,36.4,20.0,11,4,0.0,False,67.2242301,22.884845,1.94,6.881,123,No Representation
+Wazir,Hindi,2016,Thriller,Male,1,4,33.3,20.0,12,4,0.0,False,76.82,43.42,0.77,6.736,103,No Representation
+Dev.D,Hindi,2009,Comedy,Male,2,1,30.8,40.0,13,4,2.0,False,63.46,14.195,3.47,6.99,144,Meaningful Presence
+Rocket Singh: Salesman of the Year,Hindi,2009,Drama,Male,0,4,6.2,0.0,32,2,0.0,False,,10.4375,,6.861,156,No Representation
+Trapped,Hindi,2017,Thriller,Male,1,1,33.3,20.0,3,1,0.0,False,3.64501715,,,6.881,105,No Representation
+Highway,Hindi,2014,Drama,Male,1,3,12.5,20.0,8,1,0.0,False,45.5780074,23.8854255,0.91,7.2,133,No Representation
+Love per Square Foot,Hindi,2018,Comedy,Male,2,3,40.0,40.0,15,6,2.0,False,,,,6.69,133,Meaningful Presence
+1920: Evil Returns,Hindi,2012,Thriller,Unknown,2,3,42.9,40.0,7,3,2.0,False,,,,5.705,130,Meaningful Presence
+Newton,Hindi,2017,Comedy,Male,1,3,7.1,20.0,14,1,0.0,False,,,,7.1,106,No Representation
+Kai Po Che!,Hindi,2013,Drama,Male,1,4,12.5,20.0,8,1,0.0,False,,,,7.047,126,No Representation
+Main Krishna Hoon,Hindi,2013,Animation,Unknown,2,2,40.0,40.0,5,2,2.0,False,,,,6.053,135,Meaningful Presence
+Maine Pyaar Kyun Kiya?,Hindi,2005,Comedy,Male,2,3,36.4,40.0,11,4,2.0,False,,,,5.365,145,Meaningful Presence
+Karwaan,Hindi,2018,Adventure,Unknown,3,2,26.7,60.0,15,4,2.0,False,29.14035605,25.36821015,0.15,7.08,125,Meaningful Presence
+Lipstick Under My Burkha,Hindi,2017,Comedy,Unknown,4,1,20.6,80.0,34,7,2.0,False,,,,6.811,116,Meaningful Presence
+Tanu Weds Manu,Hindi,2011,Comedy,Male,1,4,16.7,20.0,12,2,0.0,False,2.1042,3.34,-0.37,6.816,119,No Representation
+Ugly,Hindi,2013,Thriller,Male,0,3,16.7,0.0,12,2,0.0,False,18.37,5.845,2.14,6.988,128,No Representation
+Mary Kom,Hindi,2014,Action,Unknown,1,4,22.2,20.0,9,2,0.0,False,129.7283388,1.8708676,68.34,7.0,122,No Representation
+Rock On!!,Hindi,2008,Drama,Male,1,4,38.5,20.0,13,5,0.0,False,,58.45,,6.835,144,No Representation
+Khosla Ka Ghosla!,Hindi,2006,Comedy,Male,1,4,10.5,20.0,19,2,0.0,False,,,,7.276,135,No Representation
+Hello,Hindi,2008,Comedy,Male,3,2,38.5,60.0,13,5,2.0,False,,,,5.663,129,Meaningful Presence
+Period. End of Sentence.,Hindi,2018,Documentary,Female,0,0,0.0,0.0,15,0,,False,,,,7.784,26,Unknown
+Te3n,Hindi,2016,Mystery,Male,1,4,6.7,20.0,15,1,0.0,False,40.2273107,42.3314272,-0.05,6.881,136,No Representation
+Ek Main Aur Ekk Tu,Hindi,2012,Drama,Male,2,3,28.6,40.0,7,2,2.0,False,,,,5.6,110,Meaningful Presence
+Loev,Hindi,2016,Drama,Unknown,0,3,0.0,0.0,4,0,0.0,False,,,,5.257,90,No Representation
+Leo,Tamil,2023,Action,Male,2,3,26.7,40.0,30,8,2.0,False,599.30275475,352.53102975,0.7,6.9,163,Meaningful Presence
+Vikram,Tamil,2022,Action,Male,0,5,23.7,0.0,38,9,0.0,False,452.3363169,128.2113108,2.53,7.565,174,No Representation
+Maharaja,Tamil,2024,Action,Unknown,2,3,25.8,40.0,31,8,2.0,False,89.8338257,,,7.7,141,Meaningful Presence
+Amaran,Tamil,2024,Action,Male,1,3,8.0,20.0,25,2,0.0,False,327.32,122.745,1.67,7.35,169,No Representation
+Mersal,Tamil,2017,Thriller,Male,3,2,39.1,60.0,23,9,2.0,False,,,,7.272,161,Meaningful Presence
+Jailer,Tamil,2023,Action,Male,1,4,11.1,20.0,36,4,0.0,False,609.52899975,,,6.608,165,No Representation
+I,Tamil,2015,Thriller,Male,1,4,25.0,20.0,16,4,0.0,False,,,,6.742,170,No Representation
+Theri,Tamil,2016,Action,Male,3,2,32.4,60.0,34,11,2.0,False,,,,6.8,157,Meaningful Presence
+Enthiran,Tamil,2010,Action,Male,1,4,31.6,20.0,19,6,0.0,False,517.7,220.44,1.35,6.6,176,No Representation
+Master,Tamil,2021,Action,Male,2,3,27.1,40.0,48,13,2.0,False,,,,6.6,179,Meaningful Presence
+Soorarai Pottru,Tamil,2020,Drama,Female,2,3,25.0,40.0,24,6,3.0,True,,,,7.806,149,Female-led & Directed
+Jai Bhim,Tamil,2021,Crime,Male,2,2,17.2,40.0,29,5,2.0,False,,,,7.284,164,Meaningful Presence
+Vada Chennai,Tamil,2018,Action,Male,2,3,13.0,40.0,23,3,2.0,False,,,,7.8,166,Meaningful Presence
+96,Tamil,2018,Romance,Male,3,2,45.5,60.0,11,5,2.0,False,,,,7.622,159,Meaningful Presence
+Kaithi,Tamil,2019,Action,Male,0,5,12.5,0.0,24,3,0.0,False,,,,7.6,147,No Representation
+Ratsasan,Tamil,2018,Thriller,Unknown,2,3,27.3,40.0,22,6,2.0,False,,,,7.396,170,Meaningful Presence
+2.0,Tamil,2018,Action,Male,1,4,33.3,20.0,15,5,0.0,False,957.15356115,642.95,0.49,5.8,149,No Representation
+Anniyan,Tamil,2005,Action,Male,1,4,26.1,20.0,23,6,0.0,False,70.975,,,7.4,181,No Representation
+Super Deluxe,Tamil,2019,Comedy,Male,2,3,23.5,40.0,17,4,2.0,False,,12.858833,,7.713,176,Meaningful Presence
+Sivaji: The Boss,Tamil,2007,Action,Male,1,4,23.1,20.0,26,6,0.0,False,158.65,100.2,0.58,7.092,189,No Representation
+24,Tamil,2016,Action,Unknown,3,2,33.3,60.0,12,4,2.0,False,125.25,83.5,0.5,7.201,164,Meaningful Presence
+Vikram Vedha,Tamil,2017,Action,Male,2,3,14.3,40.0,14,2,2.0,False,,,,7.224,147,Meaningful Presence
+Asuran,Tamil,2019,Action,Male,1,4,18.2,20.0,22,4,0.0,False,,,,7.566,141,No Representation
+Thuppakki,Tamil,2012,Action,Male,1,4,30.0,20.0,20,6,0.0,False,192.05,91.85,1.09,7.301,170,No Representation
+Kaththi,Tamil,2014,Action,Male,1,4,38.5,20.0,13,5,0.0,False,,13.36,,7.215,167,No Representation
+The Elephant Whisperers,Tamil,2022,Documentary,Female,0,0,0.0,0.0,2,0,,False,,,,7.273,40,Unknown
+Ghajini,Tamil,2005,Action,Male,2,3,37.5,40.0,8,3,2.0,False,,26.72,,6.863,182,Meaningful Presence
+Vishwaroopam,Tamil,2013,Action,Male,2,3,20.0,40.0,20,4,2.0,False,425.85,141.95,2.0,6.307,147,Meaningful Presence
+RRR,Telugu,2022,Action,Male,2,3,19.4,40.0,31,6,2.0,False,1200.0,576.15,1.32,7.716,187,Meaningful Presence
+Pushpa 2 - The Rule,Telugu,2024,Action,Male,1,4,26.5,20.0,34,9,0.0,False,1755.4,441.715,3.14,6.29,201,No Representation
+Salaar: Part 1 - Ceasefire,Telugu,2023,Action,Male,2,3,14.7,40.0,34,5,2.0,False,728.362985,283.9,1.57,6.674,175,Meaningful Presence
+Kalki 2898-AD,Telugu,2024,Drama,Male,1,4,15.1,20.0,53,8,0.0,False,1052.4,626.25,0.88,6.389,176,No Representation
+Devara: Part 1,Telugu,2024,Action,Male,0,5,29.0,0.0,31,9,0.0,False,452.71083945,265.2294,0.71,6.922,175,No Representation
+Bāhubali 2: The Conclusion,Telugu,2017,Action,Male,1,4,40.0,20.0,15,6,0.0,False,1810.0,258.85,8.05,7.46,167,No Representation
+Pushpa: The Rise,Telugu,2021,Action,Male,2,3,23.1,40.0,26,6,2.0,False,382.43,143.62,1.66,6.757,179,Meaningful Presence
+Bāhubali: The Beginning,Telugu,2015,Action,Male,3,2,32.0,60.0,25,8,2.0,False,757.741792,209.8390905,2.61,7.533,159,Meaningful Presence
+Ala Vaikunthapurramuloo,Telugu,2020,Action,Male,1,4,26.7,20.0,30,8,0.0,False,283.9,95.6075,1.97,6.588,165,No Representation
+Sita Ramam,Telugu,2022,History,Male,2,3,20.7,40.0,29,6,2.0,False,98.53,28.39,2.47,7.8,158,Meaningful Presence
+Saaho,Telugu,2019,Action,Male,2,3,20.0,40.0,25,5,2.0,False,459.25,425.85,0.08,5.7,171,Meaningful Presence
+V,Telugu,2020,Action,Male,2,3,19.0,40.0,21,4,2.0,False,,,,6.604,140,Meaningful Presence
+Magadheera,Telugu,2009,Action,Male,1,4,27.8,20.0,18,5,0.0,False,127.575475,38.272225,2.33,7.2,164,No Representation
+Eega,Telugu,2012,Fantasy,Male,1,4,25.0,20.0,16,4,0.0,False,162.4075,50.0165,2.25,7.073,145,No Representation
+Arjun Reddy,Telugu,2017,Drama,Male,2,3,50.0,40.0,18,9,2.0,False,66.8,6.513,9.26,6.983,187,Meaningful Presence

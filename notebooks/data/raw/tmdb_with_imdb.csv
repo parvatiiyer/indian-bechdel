@@ -1,0 +1,300 @@
+tmdb_id,title,original_language,language_queried,release_date,popularity,vote_average,vote_count,director_gender,female_leads_top5,male_leads_top5,total_cast,female_in_full_cast,budget,revenue,runtime,genres,production_companies,imdb_id
+20453,3 Idiots,hi,hi,2009-12-23,18.9154,8.0,2706,2,1,4,26,5,9000000,70000000,171,"['Drama', 'Comedy']","['Vidhu Vinod Chopra Productions', 'Vinod Chopra Films']",tt1187043
+781732,Animal,hi,hi,2023-12-01,16.0044,6.119,189,2,2,3,158,26,13000000,108300000,201,"['Action', 'Crime', 'Drama']","['T-Series', 'Bhadrakali Pictures', 'ST Film']",tt13751694
+360814,Dangal,hi,hi,2016-12-21,9.7434,7.878,1155,2,4,1,25,5,10400000,311000000,161,"['Drama', 'Family', 'Comedy']","['Aamir Khan Productions', 'UTV Motion Pictures', 'Disney World Cinema']",tt5074352
+7508,Like Stars on Earth,hi,hi,2007-12-21,8.3399,7.969,1337,2,1,4,17,3,2600000,28430000,162,['Drama'],"['Aamir Khan Productions', 'PVR Inox Pictures', 'UTV Motion Pictures']",tt0986264
+872906,Jawan,hi,hi,2023-09-07,7.9648,7.077,326,2,2,3,205,19,36150000,136698671,169,"['Action', 'Thriller']",['Red Chillies Entertainment'],tt15354916
+376812,Sultan,hi,hi,2016-07-06,7.2931,6.861,259,2,1,4,17,4,10400000,102000000,170,"['Drama', 'Action', 'Romance']",['Yash Raj Films'],tt4832640
+26022,My Name Is Khan,hi,hi,2010-02-10,5.4532,8.028,1452,2,2,2,43,11,12000000,42345360,165,"['Drama', 'Romance']","['Dharma Productions', 'Fox Searchlight Pictures', 'Red Chillies Entertainment', 'Fox Star Studios', 'Image Nation Abu Dhabi', 'Fox International Productions', 'Mandate International', 'Star China Media', 'Bollywood Hollywood Productions', 'FilmyBox Movies', 'Sony Music']",tt1188996
+1163258,12th Fail,hi,hi,2023-08-11,5.997,7.9,238,2,1,4,25,3,2400000,8300000,146,['Drama'],"['Vidhu Vinod Chopra Productions', 'Zee Studios']",tt23849204
+1160018,Kill,hi,hi,2024-07-03,7.0544,7.105,493,2,1,4,81,5,4800000,5600000,105,"['Action', 'Crime', 'Thriller', 'Drama']","['Sikhya Entertainment', 'Dharma Productions']",tt28259207
+4251,Veer-Zaara,hi,hi,2004-11-12,5.716,7.452,305,2,4,1,30,7,7000000,29385320,192,"['Drama', 'Romance']","['Yash Raj Films', 'Veer Zaara Pictures']",tt0420332
+370665,Dilwale,hi,hi,2015-12-18,5.2053,6.6,344,2,2,3,21,2,26000000,61000000,158,"['Crime', 'Action', 'Comedy']","['Red Chillies Entertainment', 'Rohit Shetty Productionz']",tt4535650
+206324,Bhaag Milkha Bhaag,hi,hi,2013-07-12,5.5778,7.5,278,2,3,2,15,4,4600000,25000000,186,"['History', 'Drama']",['Viacom18 Studios'],tt2356180
+192558,Aashiqui 2,hi,hi,2013-04-26,5.3046,6.84,188,2,1,4,8,1,1300000,16000000,132,"['Drama', 'Romance']","['T-Series', 'Vishesh Films']",tt2203308
+297222,PK,hi,hi,2014-12-18,5.6558,7.695,1156,2,1,4,22,6,13000000,118920000,153,"['Comedy', 'Drama', 'Science Fiction']","['Rajkumar Hirani Films', 'Vinod Chopra Films', 'UTV Motion Pictures']",tt2338151
+205022,Chennai Express,hi,hi,2013-08-08,5.0242,6.52,381,2,1,4,16,3,18000000,62000000,141,"['Romance', 'Comedy', 'Action']","['Red Chillies Entertainment', 'UTV Motion Pictures', 'Reliance MediaWorks']",tt2112124
+363343,Raees,hi,hi,2017-01-25,5.2103,6.663,251,2,2,3,11,3,46000000,0,143,"['Thriller', 'Action', 'Crime']","['Red Chillies Entertainment', 'Excel Entertainment']",tt3405236
+864692,Pathaan,hi,hi,2023-01-25,4.9965,6.413,252,2,2,3,53,3,30270000,127180000,146,"['Action', 'Adventure', 'Thriller']","['Yash Raj Films', 'Pathaan Productions', 'Palma Pictures', 'FPS Productions', 'NSA Picture', 'ODU Movies']",tt12844910
+784651,Fighter,hi,hi,2024-01-24,4.578,6.157,159,2,2,3,67,6,30069500,43160558,167,"['Action', 'Drama']","['Marflix Pictures', 'Viacom18 Studios', 'Prime Focus']",tt13818368
+44977,Dhoom 3,hi,hi,2013-12-19,4.4484,6.0,307,0,1,4,17,7,19500000,91000000,171,"['Action', 'Crime']","['Yash Raj Films', 'Dhoom Studios', 'Prime Focus']",tt1833673
+362045,Bajirao Mastani,hi,hi,2015-12-18,4.6149,7.257,306,2,3,2,15,4,19500000,56000000,158,"['History', 'Romance', 'Drama']","['Eros International', 'Bhansali Productions']",tt3735246
+1029827,Drishyam 2,hi,hi,2022-11-18,5.1393,8.014,107,2,3,2,22,6,7200000,41000000,140,"['Thriller', 'Drama', 'Mystery']","['Viacom18 Studios', 'Panorama Studios', 'T-Series', 'Aashirvad Cinemas', 'Reflection Pictures Studio']",tt15501640
+11518,Mohabbatein,hi,hi,2000-10-27,4.7133,7.087,289,2,0,5,29,8,4000000,20000000,216,"['Drama', 'Romance']",['Yash Raj Films'],tt0213890
+577328,Kabir Singh,hi,hi,2019-06-20,5.277,6.3,178,2,2,3,13,3,8751000,55478164,172,"['Drama', 'Romance']","['Cine1 Studios', 'T-Series']",tt8983202
+538858,Tumbbad,hi,hi,2018-10-12,4.0664,7.581,326,2,0,2,17,2,0,0,113,"['Fantasy', 'Horror']","['Filmgate Films', 'Film i Väst', 'Sohum Shah FIlms', 'Colour Yellow Productions', 'Eros International']",tt8239946
+117691,Gangs of Wasseypur - Part 1,hi,hi,2012-06-22,3.9978,7.076,433,2,2,3,17,4,1400000,4100000,160,"['Action', 'Thriller', 'Crime']","['Anurag Kashyap Films', 'Jar Pictures', 'Tipping Point Films', 'Viacom18 Studios']",tt1954470
+352173,Drishyam,hi,hi,2015-07-30,4.1204,7.542,490,2,3,1,16,3,4600000,18000000,163,"['Mystery', 'Thriller', 'Drama']","['Panorama Studios', 'Viacom18 Studios']",tt4430212
+432527,Padmaavat,hi,hi,2018-01-25,3.815,6.9,307,2,1,4,47,4,31000000,81673897,163,"['Drama', 'History', 'Romance']","['Bhansali Productions', 'Viacom18 Studios']",tt5935704
+61202,Zindagi Na Milegi Dobara,hi,hi,2011-07-15,3.3564,7.59,409,1,2,3,21,8,7700000,160000000,154,"['Drama', 'Comedy', 'Romance']","['Excel Entertainment', 'Eros International']",tt1562872
+585268,War,hi,hi,2019-10-02,3.9649,6.747,378,2,2,3,22,4,24140000,67540000,152,"['Action', 'Thriller', 'Adventure']","['Yash Raj Films', 'Reverie Entertainment']",tt7430722
+599925,Shershaah,hi,hi,2021-08-12,3.6259,7.302,121,2,1,4,14,1,0,0,135,"['Action', 'Drama', 'Thriller', 'War']","['Dharma Productions', 'Kaash Entertainment']",tt10295212
+664332,Gangubai Kathiawadi,hi,hi,2022-02-24,3.6824,7.463,191,2,3,2,23,7,12000000,25300000,157,"['Crime', 'Drama', 'History']","['Bhansali Productions', 'Pen Studios']",tt10083340
+32740,Krrish,hi,hi,2006-06-23,3.5121,6.502,277,2,2,3,15,6,5000000,16000000,174,"['Action', 'Science Fiction']","['Film Kraft', 'Golden Network Asia', 'Yash Raj Films', 'Adlabs Films']",tt0432637
+8079,Om Shanti Om,hi,hi,2007-11-07,3.5609,7.116,398,1,2,3,85,28,9100000,37707444,169,"['Comedy', 'Thriller', 'Drama']","['Red Chillies Entertainment', 'Eros International']",tt1024943
+17501,Don,hi,hi,2006-10-20,3.5735,6.913,303,2,1,4,25,4,5000000,15000000,178,"['Action', 'Drama', 'Thriller']",['Excel Entertainment'],tt0461936
+496331,Brahmāstra Part One: Shiva,hi,hi,2022-09-08,2.9853,6.321,195,2,2,3,24,7,22000000,0,168,"['Action', 'Adventure', 'Fantasy']","['Dharma Productions', 'Prime Focus', 'Starlight Pictures', 'Star Studios']",tt6277462
+596650,Chhichhore,hi,hi,2019-09-05,3.0388,7.678,171,2,1,4,15,1,6825000,29353057,146,"['Romance', 'Comedy', 'Drama']","['Fox Star Studios', 'Nadiadwala Grandson Entertainment']",tt9052870
+592508,Sooryavanshi,hi,hi,2021-11-05,3.4476,5.8,176,2,1,4,33,4,13000000,35000000,145,"['Action', 'Crime', 'Thriller']","['Reliance Entertainment', 'Dharma Productions', 'Rohit Shetty Productionz']",tt9531772
+611359,Tu Jhoothi Main Makkaar,hi,hi,2023-03-08,3.4879,6.3,217,2,2,2,21,5,0,0,159,"['Comedy', 'Romance', 'Family']","['LUV Films', 'T-Series', 'Identical Pictures']",tt8672856
+41517,Ra.One,hi,hi,2011-10-24,3.3158,5.736,377,2,1,3,21,6,24000000,35911689,156,"['Adventure', 'Action', 'Science Fiction']","['Red Chillies Entertainment', 'Eros International', 'Prime Focus']",tt1562871
+277432,Happy New Year,hi,hi,2014-10-24,3.3101,6.121,290,1,1,4,32,5,25000000,0,180,"['Action', 'Comedy', 'Crime', 'Adventure']","['Red Chillies Entertainment', 'Yash Raj Films']",tt2461132
+15917,Devdas,hi,hi,2002-07-11,3.0749,7.499,379,2,3,2,21,10,6663555,13311117,185,"['Drama', 'Romance']","['V.I.P. Films', 'Mega Bollywood Private Limited']",tt0238936
+10757,Kabhi Khushi Kabhie Gham,hi,hi,2001-12-14,3.3665,7.663,603,2,2,3,33,11,7500000,11336308,209,"['Comedy', 'Drama']","['Dharma Productions', 'Yash Raj Films', 'British Film Commission', 'K3G Films Limited']",tt0248126
+14163,Chak De! India,hi,hi,2007-08-09,2.9444,7.193,373,2,4,1,26,9,6300000,40000000,148,['Drama'],"['Yash Raj Films', 'Film Victoria']",tt0871510
+79464,Rockstar,hi,hi,2011-11-11,3.0588,7.281,219,2,2,3,11,4,10920000,19660000,159,"['Drama', 'Music', 'Romance']","['Eros International', 'Shree Ashtavinayak Cine Vision']",tt1839596
+534780,Andhadhun,hi,hi,2018-10-05,3.0762,7.604,620,2,2,3,14,5,4500000,40000000,139,"['Crime', 'Mystery', 'Thriller', 'Comedy']","['Viacom18 Studios', 'Matchbox Pictures']",tt8108198
+185008,Yeh Jawaani Hai Deewani,hi,hi,2013-05-31,2.9824,7.28,298,2,2,3,16,9,7700000,46000000,160,"['Romance', 'Comedy']","['Dharma Productions', 'UTV Motion Pictures', 'Eros International']",tt2178470
+14072,Rab Ne Bana Di Jodi,hi,hi,2008-12-11,2.7757,7.116,315,2,1,4,26,9,0,29914469,167,"['Comedy', 'Drama', 'Romance']",['Yash Raj Films'],tt1182937
+493623,Hichki,hi,hi,2018-03-23,2.5044,7.6,157,2,1,4,19,4,2000000,25629954,116,"['Drama', 'Comedy']",['Yash Raj Films'],tt6588966
+14134,Main Hoon Na,hi,hi,2004-04-30,3.0636,6.6,423,1,2,3,22,6,0,5920000,179,['Drama'],"['Red Chillies Entertainment', 'Venus Films']",tt0347473
+191714,The Lunchbox,hi,hi,2013-09-20,3.201,7.375,806,2,2,3,39,4,3400000,17240000,104,"['Drama', 'Romance']","['DAR Motion Pictures', 'A.S.A.P. Films', 'Sikhya Entertainment', 'National Film Development Corporation of India', 'Rohfilm', 'Cine Mosaic', 'ARTE France Cinéma', 'Dharma Productions', 'Nittin Keni Creations', 'UTV Motion Pictures']",tt2350496
+441909,Tiger Zinda Hai,hi,hi,2017-12-18,2.7616,6.251,175,2,1,4,27,5,19000000,86610000,160,"['Action', 'Adventure', 'Thriller']","['Yash Raj Films', 'Cine Tirol', 'NSA Picture']",tt5956100
+503838,Raid,hi,hi,2018-03-16,2.9529,7.165,130,2,3,2,11,3,4700000,18000000,120,"['Crime', 'Drama', 'Thriller']","['Panorama Studios', 'T-Series']",tt7363076
+14194,Dhoom 2,hi,hi,2006-11-24,2.8725,6.627,284,0,2,3,13,3,11000000,46396427,151,"['Drama', 'Action', 'Thriller', 'Crime']","['Yash Raj Films', 'Dhoom Studios']",tt0441048
+441889,Secret Superstar,hi,hi,2017-10-19,3.1077,7.258,194,2,2,2,12,4,286284,137416709,150,"['Drama', 'Music']","['Zee Studios', 'Aamir Khan Productions']",tt6108090
+14070,Ghajini,hi,hi,2008-12-25,2.9311,7.016,447,2,2,3,15,5,9100000,76000000,186,"['Action', 'Romance', 'Thriller']",['Geetha Arts'],tt1166100
+554600,Uri: The Surgical Strike,hi,hi,2019-01-11,2.5337,7.039,477,2,2,3,47,6,0,0,138,"['Action', 'Drama', 'War']",['RSVP Movies'],tt8291224
+530154,Lust Stories,hi,hi,2018-06-15,3.0592,6.215,142,2,3,2,18,9,0,0,120,"['Drama', 'Romance']","['RSVP Movies', 'Flying Unicorn Entertainment', 'Tiger Baby']",tt8439854
+118051,Cocktail,hi,hi,2012-07-13,2.9702,6.119,126,2,2,3,9,4,5100000,18000000,146,"['Romance', 'Drama', 'Comedy']","['Raj Film Productions', 'Eros International', 'Illuminati Films Pvt Ltd', 'Prime Focus', 'Cocktale Films', 'T-Series']",tt2168910
+126400,Gangs of Wasseypur - Part 2,hi,hi,2012-08-08,2.9109,7.752,107,2,2,3,21,4,1670000,4900000,160,"['Crime', 'Thriller', 'Action']","['Viacom18 Studios', 'Anurag Kashyap Films', 'Jar Pictures', 'Tipping Point Films']",
+19625,Munna Bhai M.B.B.S.,hi,hi,2003-12-19,2.5349,7.187,356,2,1,4,21,6,0,0,156,"['Comedy', 'Drama']",['Vidhu Vinod Chopra Productions'],tt0374887
+19666,Lagaan: Once Upon a Time in India,hi,hi,2001-06-15,2.6118,7.252,638,2,3,2,37,3,5200000,8100000,233,"['Adventure', 'Drama', 'History']","['Aamir Khan Productions', 'Jhamu Sughand Productions', 'Ashutosh Gowariker Productions']",tt0169102
+348892,Bajrangi Bhaijaan,hi,hi,2015-07-17,3.0197,7.798,545,2,2,3,18,4,13000000,150000000,159,"['Comedy', 'Drama', 'Adventure']","['Rockline Entertainments', 'Kabir Khan Films', 'Salman Khan Films']",tt3863552
+338065,Dil Dhadakne Do,hi,hi,2015-06-04,2.358,6.867,158,1,3,2,43,8,13000000,22000000,170,"['Drama', 'Family', 'Romance']","['Excel Entertainment', 'Junglee Pictures', 'KanZaman Productions', 'LPT Film', 'Emme Film', 'Condominium Films', 'Jake Production', 'Sindbad Productions', 'Eros International']",tt4110568
+283589,Bang Bang!,hi,hi,2014-10-02,2.6384,6.204,252,2,1,4,12,2,0,0,153,"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller']","['Fox Star Studios', 'Benetone Films', 'Fox International Productions India', 'Milk & Honey Pictures']",tt2905838
+491625,Gully Boy,hi,hi,2019-02-14,2.19,7.4,211,1,1,4,17,8,5782853,28299498,156,"['Drama', 'Music']","['Excel Entertainment', 'Tiger Baby']",tt2395469
+235984,Goliyon Ki Raasleela Ram-Leela,hi,hi,2013-11-14,2.6729,6.973,200,2,3,2,12,5,0,32000000,155,"['Drama', 'Romance']","['Eros International', 'Bhansali Productions']",tt2215477
+960876,Dunki,hi,hi,2023-12-21,2.5885,6.315,108,2,1,3,136,4,14500000,15000000,159,"['Adventure', 'Comedy', 'Drama']","['Red Chillies Entertainment', 'Rajkumar Hirani Films', 'Jio Studios']",tt15428134
+392572,Rustom,hi,hi,2016-08-12,2.3749,6.679,140,2,3,2,14,3,6114349,26309214,148,"['Thriller', 'Drama', 'Crime']","['KriArj Entertainment', 'Zee Studios', 'Hari Om Entertainment']",tt5165344
+8453,Fanaa,hi,hi,2006-05-26,2.1158,6.776,232,2,3,2,18,8,5300000,22175908,168,"['Action', 'Drama', 'Romance', 'Thriller']",['Yash Raj Films'],tt0439662
+85985,Ek Tha Tiger,hi,hi,2012-08-15,2.6114,6.191,217,2,1,4,36,2,14040000,62690000,133,"['Action', 'Thriller', 'Romance']","['Yash Raj Films', 'Fantastic Films', 'Prime Focus']",tt2016894
+496328,Sanju,hi,hi,2018-06-29,2.1727,7.2,215,2,2,3,16,7,21918618,67414985,161,['Drama'],"['Rajkumar Hirani Films', 'Vinod Chopra Films', 'Vidhu Vinod Chopra Productions']",tt6452574
+362136,Prem Ratan Dhan Payo,hi,hi,2015-11-11,2.2841,5.285,123,2,2,3,18,5,23400000,67000000,164,"['Romance', 'Drama', 'Action']","['Fox Star Studios', 'Rajshri Productions']",tt3595298
+388333,M.S. Dhoni: The Untold Story,hi,hi,2016-09-30,2.7354,7.24,202,2,2,3,27,7,0,0,190,['Drama'],"['Fox Star Studios', 'Inspired Entertainments', 'Friday Filmworks']",tt4169250
+533991,Stree,hi,hi,2018-08-31,2.2778,6.934,190,0,1,4,23,4,2800000,21000000,128,"['Horror', 'Comedy']","['Maddock Films', 'D2R Films']",tt8108202
+4254,Kal Ho Naa Ho,hi,hi,2003-11-27,2.1088,7.458,443,2,3,2,37,17,0,13214520,187,"['Comedy', 'Drama', 'Romance']",['Dharma Productions'],tt0347304
+14395,Kabhi Alvida Naa Kehna,hi,hi,2006-08-11,2.279,6.437,231,2,2,3,22,7,7400000,17000000,193,"['Drama', 'Romance']",['Dharma Productions'],tt0449999
+393445,Ae Dil Hai Mushkil,hi,hi,2016-10-27,2.2263,6.4,217,2,3,2,14,7,0,0,158,"['Romance', 'Drama']","['ADHM Films', 'Fox Star Studios', 'Dharma Productions']",tt4559006
+594669,Baaghi 3,hi,hi,2020-03-06,2.0163,6.3,125,0,2,3,13,3,7952450,18473570,144,"['Action', 'Adventure', 'Thriller']","['Nadiadwala Grandson Entertainment', 'Fox Star Studios']",tt8366590
+695969,Haseen Dillruba,hi,hi,2021-06-30,2.4179,6.771,118,0,2,3,18,4,0,0,136,"['Romance', 'Mystery', 'Thriller']","['Colour Yellow Productions', 'Eros International', 'T-Series']",tt11027830
+337876,Gabbar Is Back,hi,hi,2015-05-01,2.4305,6.891,138,2,1,4,16,5,11000000,41000000,130,"['Drama', 'Action']","['Viacom18 Studios', 'Bhansali Productions']",tt2424988
+581361,Badla,hi,hi,2019-03-08,2.0286,7.266,169,2,2,3,19,4,0,0,120,"['Crime', 'Thriller', 'Mystery', 'Drama']","['Azure Entertainment', 'Red Chillies Entertainment', 'Universal Media']",tt8130968
+41109,Don 2,hi,hi,2011-12-23,2.2448,6.971,262,2,2,3,20,4,11000000,2900000,139,"['Action', 'Thriller']","['Excel Entertainment', 'Red Chillies Entertainment', 'Landmark Productions', 'Pixion Studio']",tt1285241
+734253,Adipurush,hi,hi,2023-06-16,1.8261,4.604,106,0,1,3,27,4,63000000,54300000,179,"['Action', 'Adventure', 'Fantasy']","['Retrophiles Private Limited', 'T-Series', 'UV Creations', 'RKB Creative (US)']",tt12915716
+19025,Bhool Bhulaiyaa,hi,hi,2007-10-12,1.8978,6.743,204,2,2,3,15,6,3800000,9900000,158,"['Comedy', 'Horror', 'Thriller']",['T-Series'],tt0995031
+16345,Billu,hi,hi,2009-02-13,2.1997,6.406,112,2,1,4,27,6,5750000,10000000,137,"['Comedy', 'Drama']","['Red Chillies Entertainment', 'Eros International']",tt1230448
+496076,Zero,hi,hi,2018-12-21,1.988,5.18,114,2,2,3,33,15,26000000,0,164,"['Romance', 'Drama', 'Comedy']","['Red Chillies Entertainment', 'Colour Yellow Productions']",tt6527426
+280690,Kick,hi,hi,2014-07-25,2.6201,5.7,172,2,1,4,16,4,22000000,55000000,146,"['Action', 'Romance', 'Comedy', 'Crime']","['Nadiadwala Grandson Entertainment', 'UTV Motion Pictures']",tt2372222
+138122,Student Of The Year,hi,hi,2012-10-19,2.3472,5.792,190,2,2,3,22,11,8391922,13749809,146,"['Comedy', 'Drama', 'Romance']","['Dharma Productions', 'Red Chillies Entertainment']",tt2172071
+950071,Jaane Jaan,hi,hi,2023-09-21,2.0525,7.04,113,2,2,3,14,5,0,0,139,"['Crime', 'Thriller', 'Drama']","['Kross Pictures', '12th Street Entertainment', 'Balaji Motion Pictures', 'Northern Lights Films']",tt15748830
+381418,Sanam Teri Kasam,hi,hi,2016-02-05,1.8387,7.854,140,0,1,4,8,1,0,0,154,"['Drama', 'Romance']","['Eros International', 'Soham Rockstar Entertainment']",tt5255710
+262903,Main Tera Hero,hi,hi,2014-04-04,1.9146,5.682,195,2,2,3,16,4,0,0,128,"['Romance', 'Comedy']",['Balaji Motion Pictures'],tt2762334
+132316,Jab Tak Hai Jaan,hi,hi,2012-11-13,1.8054,7.047,288,2,3,2,16,4,6087315,27942181,176,"['Drama', 'Romance']",['Yash Raj Films'],tt2176013
+714338,Bulbbul,hi,hi,2020-06-24,1.9004,6.592,169,1,2,3,15,3,0,0,94,"['Horror', 'Fantasy', 'Thriller']",['Clean Slate Films'],tt12393526
+464458,Ittefaq,hi,hi,2017-11-03,2.2737,6.828,116,0,2,3,12,3,4400000,7900000,107,"['Crime', 'Thriller']","['Dharma Productions', 'Red Chillies Entertainment', 'B.R. Studios']",tt6692354
+480,Monsoon Wedding,hi,hi,2001-08-30,1.9273,6.793,220,1,3,2,59,8,1200000,30787356,114,"['Comedy', 'Drama', 'Romance']","['IFC Productions', 'Mirabai Films', 'Key Film Productions', 'Pandora Film', 'Paradis Films', 'iDream Productions']",tt0265343
+534075,Super 30,hi,hi,2019-07-12,2.2697,7.267,129,2,1,4,20,5,0,0,153,['Drama'],"['Phantom Films', 'Nadiadwala Grandson Entertainment', 'Reliance Entertainment', 'HRX Films']",tt7485048
+799155,Attack,hi,hi,2022-04-01,1.8016,6.8,216,0,2,2,17,3,9600000,2600000,123,"['Action', 'Science Fiction', 'Thriller']","['JA Entertainment', 'Pen Studios', 'Ajay Kapoor Productions']",tt7529298
+7913,Rang De Basanti,hi,hi,2006-01-26,1.9031,7.071,501,2,0,5,21,5,2200000,11502151,157,"['Comedy', 'Drama', 'History', 'Romance']","['UTV Motion Pictures', 'Rakeysh Omprakash Mehra Pictures']",tt0405508
+191562,Go Goa Gone,hi,hi,2013-05-10,1.9519,5.865,126,2,1,4,18,3,2700000,5400000,111,"['Comedy', 'Horror']","['Eros International', 'Illuminati Films Pvt Ltd']",tt2436516
+17478,Dhoom,hi,hi,2004-08-27,1.942,6.233,232,0,2,3,21,4,1500000,12000000,129,"['Action', 'Crime', 'Drama', 'Thriller']","['Yash Raj Films', 'Dhoom Studios']",tt0422091
+412090,Jolly LLB 2,hi,hi,2017-02-09,1.9297,6.923,156,0,1,4,33,2,4480000,1632440,140,"['Comedy', 'Crime']",['Fox Star Studios'],tt5982852
+391629,Baaghi,hi,hi,2016-04-29,2.3847,6.4,144,0,1,4,12,1,5103000,17377000,134,"['Action', 'Thriller', 'Romance', 'Adventure']","['Nadiadwala Grandson Entertainment', 'UTV Motion Pictures', 'Benetone Films']",tt4864932
+4435,Aśoka,hi,hi,2001-09-13,1.7732,6.5,161,2,2,3,21,4,17000000,19000000,175,"['Action', 'Adventure', 'Drama', 'History', 'Romance', 'War']",['Red Chillies Entertainment'],tt0249371
+39839,Baghban,hi,hi,2003-10-03,1.9354,6.903,119,2,2,3,27,7,0,4800000,183,['Drama'],['B.R. Films'],tt0337578
+287767,Mardaani,hi,hi,2014-08-22,1.625,6.637,117,2,2,2,19,4,2100000,7600000,113,"['Action', 'Crime', 'Drama', 'Thriller']",['Yash Raj Films'],tt3495000
+14073,Jodhaa Akbar,hi,hi,2008-02-13,1.7448,7.328,279,2,2,3,60,6,5800000,28700000,213,"['Romance', 'History', 'Drama']","['UTV Motion Pictures', 'Ashutosh Gowariker Productions']",tt0449994
+22717,Wanted,hi,hi,2009-09-18,1.8516,5.866,123,2,1,4,21,3,0,0,155,"['Action', 'Comedy', 'Crime', 'Thriller']","['Sahara One Motion Pictures', 'BSK Network and Entertainment']",tt1084972
+597089,Article 15,hi,hi,2019-05-28,1.6902,7.561,172,2,2,3,16,4,0,0,130,"['Crime', 'Drama', 'Thriller']","['Benaras Media Works', 'Zee Studios']",tt10324144
+15774,Swades,hi,hi,2004-12-17,1.5393,7.319,375,2,2,3,26,2,2900000,4800000,195,['Drama'],"['Ashutosh Gowariker Productions', 'UTV Motion Pictures', 'Dillywood']",tt0367110
+215776,Madras Cafe,hi,hi,2013-08-23,1.6805,6.615,126,2,2,2,15,5,5400000,6500000,130,"['Thriller', 'Drama', 'Action']","['JA Entertainment', 'Rising Sun Films']",tt2855648
+191121,Raanjhanaa,hi,hi,2013-06-21,1.79,6.623,163,2,2,3,15,3,6400000,1171761,140,"['Drama', 'Romance']","['Eros International', 'Colour Yellow Productions']",tt2359810
+21614,Hera Pheri,hi,hi,2000-03-31,1.582,7.073,302,2,1,4,21,4,1666000,4755000,156,"['Comedy', 'Crime']",['A.G. Films'],tt0242519
+84858,Agneepath,hi,hi,2012-01-25,1.4714,6.3,166,0,2,3,21,4,8700000,28000000,174,"['Action', 'Crime', 'Drama']",['Dharma Productions'],tt1849718
+276935,Ek Villain,hi,hi,2014-06-27,1.7132,6.524,171,2,2,3,14,6,0,1278108,129,"['Romance', 'Action', 'Crime', 'Thriller']",['Balaji Motion Pictures'],tt3175038
+19637,Chup Chup Ke,hi,hi,2006-06-09,1.673,6.229,109,2,2,3,13,4,0,3912699,165,['Comedy'],['UTV Motion Pictures'],tt0464160
+79990,Desi Boyz,hi,hi,2011-11-25,1.7513,6.275,111,2,2,3,17,5,0,0,122,"['Comedy', 'Drama']","['Eros International', 'Next Gen Films']",tt1985981
+15772,Guru,hi,hi,2007-01-12,2.2007,6.9,138,2,2,3,21,5,4700000,31000000,166,"['Drama', 'Romance']",['Madras Talkies'],tt0499375
+204435,Krrish 3,hi,hi,2013-11-01,2.0409,5.672,198,2,2,3,18,3,20000000,84000000,152,"['Action', 'Science Fiction']",['Film Kraft'],tt1029231
+118628,English Vinglish,hi,hi,2012-09-21,1.4567,7.232,293,1,3,2,18,6,2840000,11620000,134,"['Comedy', 'Drama', 'Family']","[""Lola's Productions"", 'Eros International', 'Curbside Films', 'Hope Productions']",tt2181931
+413543,Dear Zindagi,hi,hi,2016-11-23,1.6276,7.002,256,1,1,4,22,4,4300000,3376375,151,"['Drama', 'Romance']","['Red Chillies Entertainment', 'Dharma Productions', 'Hope Productions']",tt5946128
+413646,Badrinath Ki Dulhania,hi,hi,2017-03-10,1.6753,6.441,143,2,3,2,17,5,0,26134309,139,"['Drama', 'Comedy', 'Romance']","['Dharma Productions', 'AR Film Studio']",tt6277440
+518497,Sir,hi,hi,2018-09-20,1.3564,7.086,110,1,3,1,12,6,0,0,99,"['Drama', 'Romance']","['Inkpot Films Private Limited', 'Ciné-Sud Promotion']",tt7142506
+20294,Welcome,hi,hi,2007-12-21,1.6349,6.877,175,2,1,4,20,4,0,36500000,150,"['Comedy', 'Crime', 'Family']","['A.G. Films', 'The Indian Film Company', 'UTV Motion Pictures', 'Prime Focus', 'Base Industries Group']",tt0488798
+491629,Raazi,hi,hi,2018-05-10,1.5396,7.201,189,1,1,4,63,4,4500000,23800000,138,"['Thriller', 'Drama', 'History']","['Dharma Productions', 'Junglee Pictures']",tt7098658
+21175,Lakshya,hi,hi,2004-06-18,1.6088,6.7,117,2,1,4,23,2,4500000,4600000,186,"['War', 'Action', 'Drama', 'Romance']","['Excel Entertainment', 'UTV Motion Pictures']",tt0323013
+1018228,Chor Nikal Ke Bhaga,hi,hi,2023-03-24,1.83,6.869,141,0,1,4,24,1,0,0,110,"['Crime', 'Thriller']",['Maddock Films'],tt22297828
+165904,Special 26,hi,hi,2013-02-07,1.5786,7.309,222,2,1,4,24,4,7100000,18000000,144,"['Crime', 'Drama', 'Thriller']",['Friday Filmworks'],tt2377938
+393562,Raman Raghav 2.0,hi,hi,2016-06-24,1.7099,7.015,133,2,2,3,14,3,521873,1013926,134,"['Thriller', 'Crime']",['Phantom Films'],tt5662932
+147405,Dabangg 2,hi,hi,2012-12-21,1.7329,5.0,119,2,1,4,19,6,13650000,0,125,"['Action', 'Comedy', 'Crime']","['Arbaaz Khan Productions', 'Shree Ashtavinayak Cine Vision']",tt2112131
+20359,Phir Hera Pheri,hi,hi,2006-06-09,1.6632,6.884,146,2,2,3,27,5,4000000,15360000,155,['Comedy'],"['Base Industries Group', 'A.G. Films']",tt0419058
+611748,Housefull 4,hi,hi,2019-10-25,1.7605,5.598,102,2,2,3,17,4,18000000,35000000,142,"['Comedy', 'Drama', 'Romance']","['Fox Star Studios', 'Nadiadwala Grandson Entertainment']",tt7721946
+20495,Mujhse Shaadi Karogi,hi,hi,2004-07-30,1.5263,6.508,127,2,2,3,18,5,0,0,163,"['Romance', 'Comedy']",['Nadiadwala Grandson Entertainment'],tt0418362
+127501,Barfi!,hi,hi,2012-09-13,1.8885,7.61,368,2,2,3,26,6,4437508,2804874,151,"['Drama', 'Romance', 'Comedy']","['Ishana Movies', 'UTV Motion Pictures']",tt2082197
+16987,Kaho Naa... Pyaar Hai,hi,hi,2000-01-14,1.3443,6.712,151,2,1,4,17,4,0,0,172,"['Romance', 'Drama', 'Action', 'Comedy']",['Film Kraft'],tt0234000
+25516,Koi... Mil Gaya,hi,hi,2003-08-08,1.7305,7.014,255,2,2,2,22,5,3750000,10000000,165,"['Science Fiction', 'Action', 'Adventure']","['Film Kraft', 'Yash Raj Films']",tt0254481
+21297,Wake Up Sid,hi,hi,2009-10-02,1.573,7.235,181,2,2,3,10,6,3000000,11000000,138,"['Comedy', 'Drama', 'Romance']",['Dharma Productions'],tt1324059
+73582,Bodyguard,hi,hi,2011-08-31,1.8316,5.226,159,2,2,3,16,6,0,0,134,"['Drama', 'Action', 'Romance']","['Reel Life Productions', 'Reliance Entertainment', 'Funky Buddha Productions']",tt1729637
+15974,Bhoothnath,hi,hi,2008-05-09,1.6079,6.217,122,2,1,4,24,6,0,0,151,"['Family', 'Comedy']",['BR Films International'],tt0991346
+456565,Judwaa 2,hi,hi,2017-09-29,1.5509,5.4,114,2,3,2,20,3,10000000,34500000,150,"['Action', 'Comedy', 'Romance']","['Fox Star Studios', 'Nadiadwala Grandson Entertainment']",tt5456546
+58051,Housefull,hi,hi,2010-04-30,1.4067,5.746,142,2,2,3,17,8,3500000,15000000,135,"['Comedy', 'Romance']",['Nadiadwala Grandson Entertainment'],tt1573072
+280795,Haider,hi,hi,2014-10-02,1.4139,7.2,249,2,2,2,17,2,7000000,11500000,150,"['Crime', 'Drama']","['Vishal Bhardwaj Pictures', 'UTV Motion Pictures']",tt3390572
+339274,Tamasha,hi,hi,2015-11-27,1.6425,6.9,169,2,1,4,18,4,0,0,139,"['Romance', 'Drama', 'Comedy']","['Window Seat Films', 'UTV Motion Pictures', 'Nadiadwala Grandson Entertainment']",tt3148502
+250551,Gunday,hi,hi,2014-02-14,1.7074,4.881,113,2,1,4,16,1,0,0,152,"['Action', 'Crime', 'Drama']",['Yash Raj Films'],tt2574698
+4252,Chalte Chalte,hi,hi,2003-06-12,1.3697,6.3,103,2,2,2,13,4,4600000,18000000,175,"['Comedy', 'Drama', 'Romance']","['Dreamz Unlimited', 'United Motion Pictures']",tt0346723
+1163194,Lost Ladies,hi,hi,2024-03-01,1.375,7.811,151,1,3,2,40,4,0,330000000,123,"['Comedy', 'Drama', 'Romance']","['Aamir Khan Productions', 'Jio Studios', 'Kindling Pictures']",tt21626284
+547654,Badhaai Ho,hi,hi,2018-10-19,1.1839,7.196,171,0,3,2,10,6,4000000,39000000,125,"['Comedy', 'Romance', 'Drama']","['Junglee Pictures', 'Chrome Pictures']",tt7725596
+447856,Pad Man,hi,hi,2018-02-09,1.276,7.439,238,2,3,1,11,5,10000000,23000000,140,"['Comedy', 'Drama']","['Hari Om Entertainment', 'Columbia Pictures', 'Sony Pictures Films India', 'Sony Pictures International Productions', 'CP Film Production Asia', 'Hope Productions']",tt7218518
+658412,Ludo,hi,hi,2020-11-12,1.2924,7.164,125,2,1,3,22,4,0,0,150,"['Crime', 'Comedy']","['T-Series', 'Anurag Basu Productions', 'Zeal Z Entertainment Services']",tt7212754
+86004,Talaash,hi,hi,2012-11-30,1.3275,6.766,246,1,2,3,22,9,8510000,0,149,"['Crime', 'Drama', 'Thriller']","['Aamir Khan Productions', 'Excel Entertainment']",tt1787988
+353464,Talvar,hi,hi,2015-10-02,1.4873,7.482,191,1,1,4,13,3,0,0,132,"['Thriller', 'Drama', 'Mystery']","['Vishal Bhardwaj Pictures', 'Jar Pictures', 'Junglee Pictures']",tt4934950
+102632,Rowdy Rathore,hi,hi,2012-06-01,1.2359,5.932,110,2,1,4,22,6,6700000,31000000,143,"['Action', 'Comedy', 'Crime']",['Bhansali Productions'],tt2077833
+24827,Ajab Prem Ki Ghazab Kahani,hi,hi,2009-11-06,1.4461,6.211,154,2,1,4,15,4,0,26000000,150,"['Romance', 'Comedy', 'Action']",['Tips Industries'],tt1252596
+323517,Badlapur,hi,hi,2015-02-20,1.4527,7.0,148,2,3,2,12,6,3700000,11480000,134,"['Crime', 'Thriller', 'Action', 'Drama']","['Maddock Films', 'Eros International']",tt3678782
+915831,"Monica, O My Darling",hi,hi,2022-11-11,1.394,6.962,104,2,2,3,16,5,0,0,129,"['Crime', 'Comedy', 'Drama', 'Mystery', 'Thriller']",['Matchbox Shots'],tt15128068
+645484,Dil Bechara,hi,hi,2020-07-24,1.503,6.701,117,2,2,3,11,4,3025,0,101,"['Drama', 'Romance']",['Fox Star Studios'],tt8110330
+441906,Jab Harry Met Sejal,hi,hi,2017-08-04,1.6929,6.379,206,2,2,2,12,3,16600000,15360368,144,"['Comedy', 'Drama', 'Romance']","['Red Chillies Entertainment', 'Window Seat Films', 'New Amsterdam Film Company']",tt5997666
+44425,Dabangg,hi,hi,2010-09-10,1.3265,5.8,179,2,1,4,17,4,9370000,0,130,"['Action', 'Comedy', 'Crime']","['Arbaaz Khan Productions', 'Shree Ashtavinayak Cine Vision']",tt1620719
+44749,Race 2,hi,hi,2013-01-25,1.1886,5.43,122,2,2,3,11,4,17,0,150,"['Action', 'Thriller']","['UTV Motion Pictures', 'Tips Industries', 'Illuminati Films Pvt Ltd']",tt1375789
+276928,Humpty Sharma Ki Dulhania,hi,hi,2014-07-11,1.4109,6.4,118,2,1,3,8,2,0,0,133,"['Drama', 'Comedy', 'Romance']",['Dharma Productions'],tt3678938
+14752,Dil Chahta Hai,hi,hi,2001-07-24,1.2901,6.853,334,2,2,3,26,7,2079000,4099000,183,"['Drama', 'Romance']",['Excel Entertainment'],tt0292490
+33457,Nayak: The Real Hero,hi,hi,2001-09-07,1.1377,7.099,111,2,1,4,22,4,0,0,187,"['Drama', 'Thriller', 'Action']",['Sri Surya Films'],tt0291376
+11807,Jab We Met,hi,hi,2007-10-26,1.2935,7.313,319,2,1,4,18,4,2300000,10065630,138,"['Drama', 'Comedy', 'Romance']",['Shree Ashtavinayak Cine Vision'],tt1093370
+682401,Ek Villain Returns,hi,hi,2022-07-29,1.2454,6.0,133,2,2,3,21,3,0,0,127,"['Action', 'Crime', 'Thriller']","['Balaji Telefilms', 'T-Series']",tt11947158
+37737,Kites,hi,hi,2010-05-21,1.4258,7.2,221,2,2,3,20,5,0,0,123,"['Drama', 'Action', 'Romance']","['Bollywood Hollywood Production', 'Reliance Entertainment', 'Film Kraft', 'Bollywood Hollywood Production']",tt1198101
+336203,Masaan,hi,hi,2015-07-24,1.3108,7.103,203,2,2,3,9,2,0,0,109,['Drama'],"['Sikhya Entertainment', 'Drishyam Films', 'Phantom Films', 'Macassar Productions', 'ARTE France Cinéma']",tt4635372
+560964,Junglee,hi,hi,2019-03-29,1.0603,6.8,107,2,2,3,12,2,0,0,115,"['Action', 'Adventure']",['Junglee Pictures'],tt7463730
+498448,Kesari,hi,hi,2019-03-21,1.327,7.075,120,0,1,3,38,2,0,0,151,"['Action', 'Drama', 'History', 'War']","['Dharma Productions', 'Azure Entertainment', 'Zee Studios', 'Cape of Good Films']",tt6264938
+767377,Dhamaka,hi,hi,2021-11-19,1.0729,6.791,103,2,2,3,13,2,0,0,104,"['Thriller', 'Drama', 'Crime']","['RSVP Movies', 'Ram Madhvani Films', 'Globalgate Entertainment', 'Lotte Entertainment', 'Lotte Cultureworks']",tt13510660
+135718,OMG: Oh My God!,hi,hi,2012-09-28,1.3465,7.244,289,0,0,5,24,3,2500000,19000000,125,"['Comedy', 'Drama']",['Hari Om Entertainment'],tt2283748
+65946,Ready,hi,hi,2011-06-03,1.1444,5.054,101,2,1,4,28,6,5800000,27000000,140,"['Action', 'Comedy']",['Sohail Khan Production'],tt1708532
+325138,Dum Laga Ke Haisha,hi,hi,2015-02-27,1.4327,7.191,139,0,3,2,10,4,0,0,111,"['Comedy', 'Drama', 'Romance']",['Yash Raj Films'],tt3495030
+20413,Dhamaal,hi,hi,2007-09-07,1.3936,6.7,131,2,0,5,30,1,0,0,135,"['Comedy', 'Adventure']",['Maruti International'],tt0845448
+251626,Hasee Toh Phasee,hi,hi,2014-02-07,1.269,6.566,114,0,2,3,16,4,0,0,141,"['Comedy', 'Romance']","['Phantom Films', 'Dharma Productions']",tt3173910
+404604,Mom,hi,hi,2017-07-07,1.2654,7.542,215,2,2,3,14,5,0,0,147,"['Crime', 'Drama', 'Thriller']","['Third Eye Pictures', 'Mad Films']",tt5690142
+46040,Tees Maar Khan,hi,hi,2010-12-24,1.1263,3.692,112,1,1,4,24,4,0,0,137,"['Comedy', 'Crime']","['UTV Motion Pictures', 'Hari Om Entertainment']",tt1572311
+314389,Baby,hi,hi,2015-01-23,1.2438,6.816,190,2,0,5,66,3,0,0,160,"['Action', 'Thriller']","['T-Series', 'Cape of Good Films', 'Crouching Tiger Motion Pictures', 'Friday Filmworks']",tt3848892
+377985,Fan,hi,hi,2016-04-14,1.1438,6.282,268,2,3,2,27,7,12750000,28000000,138,"['Action', 'Adventure', 'Thriller']","['Red Chillies Entertainment', 'Yash Raj Films', 'Prime Focus']",tt3495026
+12273,Singh Is Kinng,hi,hi,2008-08-08,0.8573,5.668,110,2,2,3,15,3,14000000,25000000,135,"['Action', 'Comedy']","['Reliance Entertainment', 'Hari Om Entertainment']",tt1146325
+19636,Garam Masala,hi,hi,2005-11-03,1.2085,6.0,101,2,2,3,13,5,0,0,142,['Comedy'],['Venus Records & Tapes'],tt0453671
+21461,Lage Raho Munna Bhai,hi,hi,2006-09-01,1.0664,7.3,228,2,1,4,23,4,1800000,31517561,144,"['Comedy', 'Drama', 'Romance']",['Vidhu Vinod Chopra Productions'],tt0456144
+403867,Kaabil,hi,hi,2017-01-25,1.0848,6.908,147,2,1,3,11,2,5200000,0,139,"['Action', 'Thriller', 'Drama']",['Film Kraft'],tt5460276
+415358,Pink,hi,hi,2016-09-16,1.2187,7.367,241,2,3,2,13,5,75000000,15020702,136,"['Drama', 'Thriller']","['Saraswati Entertainment Creations Limited', 'Rising Sun Films']",tt5571734
+398535,Udta Punjab,hi,hi,2016-06-17,1.0337,7.23,163,2,2,3,14,2,5980000,14900000,148,"['Crime', 'Drama']","['Balaji Motion Pictures', 'Phantom Films', 'Cult Movies']",tt4434004
+472138,Thugs of Hindostan,hi,hi,2018-11-07,1.2131,5.536,124,0,2,3,22,3,31000000,3136000,164,"['Adventure', 'Action']","['Yash Raj Films', 'Latina Pictures', 'Benetone Films', 'Prime Focus']",tt5970844
+27298,Partner,hi,hi,2007-07-20,1.2198,5.525,119,2,2,3,18,5,0,20000000,143,"['Comedy', 'Romance']","['Eros International', 'Sohail Khan Production']",tt0807758
+70590,Singham,hi,hi,2011-07-22,1.1568,6.533,181,2,1,4,14,2,4800000,30000000,143,"['Drama', 'Action', 'Crime']",['Reliance Entertainment'],tt1948150
+4157,Heyy Babyy,hi,hi,2007-08-24,1.082,5.884,116,2,1,4,23,12,9400000,2200000,150,"['Comedy', 'Drama', 'Romance']",['Nadiadwala Grandson Entertainment'],tt0806088
+52696,Band Baaja Baaraat,hi,hi,2010-12-10,1.0616,6.7,142,2,1,3,30,2,3300000,7400000,139,"['Comedy', 'Drama', 'Romance']",['Yash Raj Films'],tt1610452
+82825,Kahaani,hi,hi,2012-03-08,1.1298,7.182,344,2,1,4,19,3,1200000,16000000,122,"['Mystery', 'Thriller']","['Viacom18 Studios', 'Pen Studios', 'Bound Script Production']",tt1821480
+67109,Delhi Belly,hi,hi,2011-07-01,1.4091,7.078,212,2,2,3,65,3,4090000,18035000,102,"['Action', 'Comedy']","['UTV Motion Pictures', 'Aamir Khan Productions']",tt1934231
+4253,Hum Tum,hi,hi,2004-05-28,0.9573,6.435,123,2,3,2,10,5,0,1878702,142,"['Romance', 'Family', 'Comedy', 'Drama']",['Yash Raj Films'],tt0378072
+19658,Race,hi,hi,2008-03-20,1.1294,6.109,133,2,2,3,11,4,0,0,161,"['Drama', 'Action', 'Thriller', 'Crime']","['UTV Motion Pictures', 'Tips Industries', 'Films & Casting TEMPLE']",tt1017456
+103243,Vicky Donor,hi,hi,2012-04-20,0.9673,6.77,191,2,2,2,10,4,700000,0,122,"['Comedy', 'Romance']","['Eros International', 'JA Entertainment']",tt2317337
+374173,Kapoor & Sons,hi,hi,2016-03-18,1.0602,7.048,199,2,2,3,24,3,3577143,17412627,137,"['Drama', 'Romance', 'Comedy', 'Family']","['Fox Star Studios', 'Dharma Productions']",tt4900716
+33081,Paheli,hi,hi,2005-06-24,1.0726,6.144,101,2,2,3,21,7,4900000,11000000,141,"['Romance', 'Drama', 'Fantasy']",['Red Chillies Entertainment'],tt0451850
+598826,Sardar Udham,hi,hi,2021-10-16,1.0245,7.115,126,2,1,4,22,2,0,0,162,"['Crime', 'Drama', 'History']","['Kino Works', 'Rising Sun Films', 'MD Trade', 'Alchemie Overseas']",tt10280296
+240614,R... Rajkumar,hi,hi,2013-12-06,1.2211,6.155,103,2,1,4,13,4,0,0,146,"['Action', 'Romance']","['Next Gen Films', 'Eros International']",tt2369154
+45316,Udaan,hi,hi,2010-06-17,1.0017,7.206,223,2,0,5,47,0,800000,520000,138,['Drama'],"['UTV Spotboy Motion Pictures', 'Anurag Kashyap Films', 'Sanjay Singh Films']",tt1639426
+456570,Hindi Medium,hi,hi,2017-05-19,1.1799,7.381,206,0,3,2,21,10,3213790,52390000,132,"['Comedy', 'Drama']",['Maddock Films'],tt5764096
+291157,Khoobsurat,hi,hi,2014-09-19,0.8111,6.598,127,0,4,1,11,4,230,0,130,"['Comedy', 'Romance']","['Disney World Cinema', 'UTV Motion Pictures', 'Anil Kapoor Film & Communication Network']",tt3554418
+20360,Namastey London,hi,hi,2007-03-23,0.9075,6.19,124,2,1,4,11,4,0,0,131,"['Comedy', 'Drama', 'Romance']","['Blockbuster Movie Entertainers', 'Ultra Media & Entertainment [IN]', 'Namastey London Productions Limited', 'Eros International']",tt0795434
+85052,Housefull 2,hi,hi,2012-04-05,1.1044,5.551,127,2,1,4,15,5,7100000,22000000,160,"['Comedy', 'Romance']","['Nadiadwala Grandson Entertainment', 'Eros Worldwide']",tt1980986
+391779,Housefull 3,hi,hi,2016-06-03,1.0418,5.1,110,2,2,3,17,4,13000000,23000000,140,"['Comedy', 'Romance']",[],tt4559046
+19663,Love Aaj Kal,hi,hi,2009-07-31,1.0206,6.243,111,2,1,3,13,6,12500000,20794985,128,"['Comedy', 'Drama', 'Romance']","['Eros International', 'Illuminati Films Pvt Ltd']",tt1275863
+25868,Aladin,hi,hi,2009-10-29,0.9456,6.2,100,2,2,3,8,3,0,0,132,"['Fantasy', 'Drama', 'Romance', 'Adventure', 'Comedy']",[],tt1227762
+14071,Dostana,hi,hi,2008-11-13,0.8827,6.142,169,0,2,3,14,5,10000000,20000000,141,"['Drama', 'Comedy', 'Romance']","['Dharma Productions', 'Black Dog Jib Productions', 'Yash Raj Films']",tt1185420
+441875,Toilet: A Love Story,hi,hi,2017-08-11,1.0864,6.813,214,0,1,4,9,4,3700000,13800000,155,"['Comedy', 'Drama', 'Romance']","['KriArj Entertainment', 'Grazing Goat Pictures', 'Friday Filmworks', 'Abundantia Entertainment', 'Plan C Studios']",tt5785170
+34764,Karthik Calling Karthik,hi,hi,2010-02-26,1.0334,6.3,103,0,2,3,22,2,2800000,3900000,135,"['Romance', 'Mystery', 'Thriller']","['Eros International', 'Excel Entertainment']",tt1373156
+273886,Holiday,hi,hi,2014-06-06,0.9964,6.339,146,2,1,4,26,4,0,0,170,"['Action', 'Crime', 'Thriller']","['Reliance Entertainment', 'Hari Om Entertainment']",tt2556308
+19703,A Wednesday!,hi,hi,2008-09-05,1.176,7.0,358,2,1,4,20,2,1400000,3500000,103,"['Drama', 'Thriller']",['UTV Motion Pictures'],tt1280558
+472123,Golmaal Again,hi,hi,2017-10-20,0.9939,5.414,111,2,0,5,20,4,8400000,37000000,151,"['Comedy', 'Horror', 'Action', 'Fantasy']","['Reliance Entertainment', 'Rohit Shetty Productionz', 'Ajay Devgn FFilms']",tt1806913
+41518,Guzaarish,hi,hi,2010-11-16,0.8844,7.377,130,2,2,2,20,7,0,0,126,"['Drama', 'Romance']","['Prime Focus', 'UTV Motion Pictures', 'Bhansali Productions']",tt1438298
+19670,Golmaal – Fun Unlimited,hi,hi,2006-07-14,1.0226,6.743,138,2,0,5,11,2,1800000,4900000,150,"['Comedy', 'Family']","['KSS Limited', 'Shree Ashtavinayak Cinevision Ltd']",tt0495034
+14546,Golmaal Returns,hi,hi,2008-10-29,0.9727,5.477,129,2,1,4,20,8,4200000,9600000,136,['Comedy'],['Shree Ashtavinayak Cine Vision'],tt1092005
+376869,Neerja,hi,hi,2016-02-19,0.835,7.266,239,2,2,3,9,2,2900000,17618280,122,"['Drama', 'Thriller']","['Fox Star Studios', 'Bling Unplugged']",tt5286444
+285803,Singham Returns,hi,hi,2014-08-15,0.9127,6.118,131,2,1,4,13,2,13000000,26000000,142,['Action'],"['Reliance Entertainment', 'Ajay Devgn FFilms']",tt2309764
+496527,October,hi,hi,2018-04-13,1.0261,6.951,113,2,2,1,15,2,0,0,109,"['Drama', 'Romance']","['Kino Works', 'Rising Sun Films']",tt7700730
+332835,Piku,hi,hi,2015-05-08,0.8713,7.1,213,2,2,3,10,3,5500000,22159216,123,"['Comedy', 'Drama']","['Rising Sun Films', 'MSM Motion Pictures', 'Saraswati Entertainment Creations Limited', 'Yash Raj Films']",tt3767372
+31977,Black,hi,hi,2005-02-04,0.9837,7.675,228,2,3,2,23,6,2652377,8029469,124,['Drama'],"['Applause Bhansali Productions', 'Applause Entertainment', 'Bhansali Productions', 'Yash Raj Films']",tt0375611
+512098,Blackmail,hi,hi,2018-04-06,0.8003,6.863,106,2,2,3,12,5,0,0,138,"['Comedy', 'Thriller']","['RDP Motion Pictures', 'T-Series']",tt6972140
+177358,Jolly LLB,hi,hi,2013-03-15,0.8593,7.082,141,0,1,4,20,2,0,0,135,"['Comedy', 'Drama']",['Fox Star Studios'],tt2621000
+465642,Parmanu: The Story of Pokhran,hi,hi,2018-05-25,0.9048,7.1,112,0,1,4,10,2,7405000,0,129,"['Drama', 'History', 'Thriller']","['Zee Studios', 'JA Entertainment', 'KYTA Productions']",tt6826438
+375290,Airlift,hi,hi,2016-01-22,0.9461,7.11,214,2,1,3,19,3,4500000,32000000,126,"['Drama', 'History', 'Action']","['T-Series', 'Hari Om Entertainment', 'Cape of Good Films', 'Viacom18 Studios', 'Abundantia Entertainment', 'Emmay Entertainment']",tt4387040
+320295,Detective Byomkesh Bakshy!,hi,hi,2015-04-02,0.7519,6.727,110,2,1,3,24,2,5100000,5200000,139,"['Action', 'Mystery', 'Drama']",['Dibakar Banerjee Productions'],tt3447364
+336211,Tanu Weds Manu: Returns,hi,hi,2015-05-22,0.7527,6.88,167,2,2,3,14,2,6153000,39270000,128,"['Comedy', 'Romance']","['Eros International', 'Colour Yellow Productions']",tt2140465
+247645,Queen,hi,hi,2014-03-07,0.921,7.319,309,2,2,3,8,2,1900000,17000000,146,"['Comedy', 'Drama']","['Phantom Films', 'Viacom18 Studios']",tt3322420
+15084,Salaam Namaste,hi,hi,2005-09-09,0.8349,6.243,101,2,1,4,7,1,2500000,0,158,"['Comedy', 'Romance', 'Drama']","['Yash Raj Films', 'Films & Casting TEMPLE', 'Film Victoria', 'Prime Focus']",tt0456165
+14467,Jaane Tu... Ya Jaane Na,hi,hi,2008-07-04,0.9334,6.836,171,0,3,2,30,5,2300000,11100000,155,"['Drama', 'Comedy', 'Romance']","['PVR Inox Pictures', 'Aamir Khan Productions']",tt0473367
+498598,Sonu Ke Titu Ki Sweety,hi,hi,2018-02-23,1.0745,6.574,129,2,2,3,32,7,0,0,144,"['Romance', 'Comedy']","['LUV Films', 'Sarke Studio']",tt7581902
+20688,Kaminey,hi,hi,2009-08-14,0.716,6.7,104,2,1,3,13,2,9000000,18130000,135,"['Action', 'Crime', 'Drama']","['UTV Motion Pictures', 'Vishal Bhardwaj Pictures']",tt1274295
+96398,Paan Singh Tomar,hi,hi,2012-03-02,0.8076,7.391,142,2,1,3,13,1,0,0,135,"['Crime', 'Drama']","['UTV Motion Pictures', 'UTV Spotboy Motion Pictures']",tt1620933
+259720,2 States,hi,hi,2014-04-17,1.1025,6.5,158,0,3,2,11,4,4587786,22414611,149,"['Comedy', 'Romance', 'Drama']","['Dharma Productions', 'Nadiadwala Grandson Entertainment', 'T-Series']",tt2372678
+467106,Bareilly Ki Barfi,hi,hi,2017-08-17,1.0005,6.881,189,1,1,3,11,4,2740700,8050806,123,"['Comedy', 'Romance']","['Junglee Pictures', 'BR Studios', 'Sahil Arora Creative Films SACF', 'Prime Link Media PLM']",tt6967980
+275269,Wazir,hi,hi,2016-01-07,0.8701,6.736,138,2,1,4,12,4,5200000,9200000,103,"['Thriller', 'Action', 'Crime']","['Getaway Films Private Limited', 'Vinod Chopra Films', 'Rajkumar Hirani Films', 'Vidhu Vinod Chopra Productions']",tt0315642
+15977,Dev.D,hi,hi,2009-02-06,0.6971,6.99,145,2,2,1,13,4,1700000,7600000,144,"['Comedy', 'Drama', 'Romance']","['UTV Spotboy Motion Pictures', 'UTV Motion Pictures', 'Anurag Kashyap Films']",tt1327035
+26815,Rocket Singh: Salesman of the Year,hi,hi,2009-12-11,0.8348,6.861,122,2,0,4,32,2,1250000,0,156,"['Drama', 'Comedy', 'Romance']",['Yash Raj Films'],tt1434447
+431892,Trapped,hi,hi,2017-03-17,0.7113,6.881,130,2,1,1,3,1,0,436529,105,"['Thriller', 'Drama']","['Reliance Entertainment', 'Phantom Films']",tt6206564
+252841,Highway,hi,hi,2014-02-13,0.8286,7.2,184,2,1,3,8,1,2860530,5458444,133,"['Drama', 'Romance', 'Crime']","['Window Seat Films', 'Nadiadwala Grandson Entertainment', 'Window Seat Films']",tt2980794
+505175,Love per Square Foot,hi,hi,2018-02-14,0.714,6.69,124,2,2,3,15,6,0,0,133,"['Comedy', 'Romance']","['RSVP Movies', 'Leo Media Collective']",tt7853242
+158519,1920: Evil Returns,hi,hi,2012-11-02,0.8075,5.705,139,0,2,3,7,3,0,0,130,"['Thriller', 'Horror', 'Romance']",['ASA Productions and Enterprises'],tt2222550
+439128,Newton,hi,hi,2017-09-22,0.727,7.1,147,2,1,3,14,1,0,0,106,"['Comedy', 'Drama']","['Colour Yellow Productions', 'Drishyam Films']",tt6484982
+168245,Kai Po Che!,hi,hi,2013-02-13,0.5942,7.047,148,2,1,4,8,1,0,0,126,['Drama'],['UTV Motion Pictures'],tt2213054
+198556,Main Krishna Hoon,hi,hi,2013-01-25,0.591,6.053,113,0,2,2,5,2,0,0,135,"['Animation', 'Family']","['Eros International', 'JC Film Visions']",tt1855268
+39217,Maine Pyaar Kyun Kiya?,hi,hi,2005-07-15,0.7519,5.365,126,2,2,3,11,4,0,0,145,"['Comedy', 'Drama', 'Romance']","['Shree Ashtavinayak Cine Vision', 'Sohail Khan Production']",tt0451803
+533237,Karwaan,hi,hi,2018-08-03,0.9967,7.08,113,0,3,2,15,4,3038109,3489863,125,"['Adventure', 'Comedy']",['RSVP Movies'],tt7919680
+418235,Lipstick Under My Burkha,hi,hi,2017-07-21,0.7042,6.811,106,0,4,1,34,7,0,0,116,"['Comedy', 'Drama']","['Balaji Motion Pictures', 'Prakash Jha Productions']",tt4807830
+58333,Tanu Weds Manu,hi,hi,2011-02-25,0.6823,6.816,106,2,1,4,12,2,400000,252000,119,"['Comedy', 'Romance', 'Drama']","['Sanjay Singh Films', 'Viacom18 Studios', 'Soundarya production']",tt1694542
+191726,Ugly,hi,hi,2013-05-17,0.6861,6.988,129,2,0,3,12,2,700000,2200000,128,"['Thriller', 'Drama', 'Mystery', 'Crime']","['Phantom Films', 'DAR Motion Pictures']",tt2882328
+284288,Mary Kom,hi,hi,2014-09-05,0.5407,7.0,103,0,1,4,9,2,224056,15536328,122,"['Action', 'Drama']","['Viacom18 Studios', 'Bhansali Productions', 'Eros International']",tt3001638
+19672,Rock On!!,hi,hi,2008-08-29,0.5242,6.835,106,2,1,4,13,5,7000000,0,144,['Drama'],"['Excel Entertainment', 'Reliance Entertainment']",tt1230165
+15412,Khosla Ka Ghosla!,hi,hi,2006-09-22,0.6715,7.276,114,2,1,4,19,2,0,0,135,['Comedy'],['UTV Motion Pictures'],tt0466460
+20365,Hello,hi,hi,2008-10-10,0.5164,5.663,141,2,3,2,13,5,0,0,129,['Comedy'],"['Funky Buddha Media', 'Mirah Entertainment', 'Perception Pictures', 'Reel Life Productions']",tt1087856
+524288,Period. End of Sentence.,hi,hi,2018-04-05,0.5264,7.784,250,1,0,0,15,0,0,0,26,['Documentary'],"['Sikhya Entertainment', 'The Pad Project']",tt6939026
+377213,Te3n,hi,hi,2016-06-10,0.9588,6.881,105,2,1,4,15,1,5069632,4817642,136,"['Mystery', 'Thriller', 'Crime']","['Blue Waters Motion Pictures', 'Kross Pictures', 'Endemol Shine India', 'Reliance Entertainment']",tt4814290
+84533,Ek Main Aur Ekk Tu,hi,hi,2012-02-10,0.5188,5.6,152,2,2,3,7,2,0,0,110,"['Drama', 'Comedy', 'Romance']","['Dharma Productions', 'UTV Motion Pictures']",tt1703958
+381070,Loev,hi,hi,2016-05-12,0.4035,5.257,103,0,0,3,4,0,0,0,90,"['Drama', 'Romance']","['Productions Four Line Films', 'Bombay Berlin Film']",tt5050788
+949229,Leo,ta,ta,2023-10-18,5.5023,6.9,125,2,2,3,30,8,42219285,71772785,163,"['Action', 'Crime', 'Thriller']","['Seven Screen Studios', 'The Route']",tt15654328
+743563,Vikram,ta,ta,2022-06-02,3.0703,7.565,162,2,0,5,38,9,15354648,54172014,174,"['Action', 'Crime', 'Thriller']",['Raajkamal Films International'],tt9179430
+1118224,Maharaja,ta,ta,2024-06-14,3.578,7.7,217,0,2,3,31,8,0,10758542,141,"['Action', 'Thriller', 'Mystery']","['Passion Studios', 'The Route', 'Think Studios']",tt26548265
+927342,Amaran,ta,ta,2024-10-31,3.1587,7.35,254,2,1,3,25,2,14700000,39200000,169,"['Action', 'Drama', 'Adventure', 'War']","['Raajkamal Films International', 'Sony Pictures International Productions']",tt27118357
+456287,Mersal,ta,ta,2017-10-18,3.2338,7.272,125,2,3,2,23,9,0,0,161,"['Thriller', 'Action', 'Crime']",['Sri Thenandal Films'],tt6485666
+937020,Jailer,ta,ta,2023-08-10,2.8122,6.608,111,2,1,4,36,4,0,72997485,165,"['Action', 'Crime', 'Thriller', 'Comedy', 'Adventure']",['Sun Pictures'],tt11663228
+263471,I,ta,ta,2015-01-04,2.225,6.742,132,2,1,4,16,4,0,0,170,"['Thriller', 'Action', 'Romance']",['Aascar Films'],tt2302966
+370076,Theri,ta,ta,2016-04-14,2.3229,6.8,108,2,3,2,34,11,0,69,157,"['Action', 'Crime', 'Thriller']","['V Creations', 'Vijaya Films']",tt5440700
+148284,Enthiran,ta,ta,2010-10-01,1.891,6.6,248,2,1,4,19,6,26400000,62000000,176,"['Action', 'Science Fiction', 'Adventure']",['Sun Pictures'],tt1305797
+626392,Master,ta,ta,2021-01-13,2.1765,6.6,119,2,2,3,48,13,0,0,179,"['Action', 'Thriller', 'Crime']","['XB Film Creators', 'Seven Screen Studios', 'B4U Motion Pictures']",tt10579952
+595228,Soorarai Pottru,ta,ta,2020-11-12,2.2915,7.806,121,1,2,3,24,6,0,0,149,"['Drama', 'Action']","['2D Entertainment', 'Sikhya Entertainment']",tt10189514
+855400,Jai Bhim,ta,ta,2021-11-02,1.7174,7.284,231,2,2,2,29,5,0,0,164,"['Crime', 'Drama', 'Mystery', 'History']",['2D Entertainment'],tt15097216
+410331,Vada Chennai,ta,ta,2018-10-17,1.8301,7.8,106,2,2,3,23,3,0,0,166,"['Action', 'Crime', 'Drama']","['Wunderbar Films', 'Grass Root Film Company', 'Lyca Productions', 'Oveyen Studio']",tt5959980
+441717,96,ta,ta,2018-10-04,1.7009,7.622,144,2,3,2,11,5,0,0,159,['Romance'],['Madras Enterprises'],tt7019842
+587030,Kaithi,ta,ta,2019-10-25,1.8649,7.6,147,2,0,5,24,3,0,0,147,"['Action', 'Thriller', 'Crime']","['Dream Warrior Pictures', 'Vivekandanda Pictures']",tt9900782
+412862,Ratsasan,ta,ta,2018-10-05,1.6269,7.396,188,0,2,3,22,6,0,0,170,"['Thriller', 'Crime', 'Mystery']",['Axess Film Factory'],tt7060344
+373449,2.0,ta,ta,2018-11-29,1.4442,5.8,174,2,1,4,15,5,77000000,114629169,149,"['Action', 'Science Fiction', 'Fantasy']",['Lyca Productions'],tt5080556
+19978,Anniyan,ta,ta,2005-06-17,1.3959,7.4,117,2,1,4,23,6,0,8500000,181,"['Action', 'Drama', 'Thriller', 'Crime']",['Aascar Films'],tt0376127
+432011,Super Deluxe,ta,ta,2019-03-29,1.174,7.713,134,2,2,3,17,4,1539980,0,176,"['Comedy', 'Thriller', 'Drama', 'Crime']","['Tyler Durden And Kino Fist', 'Alchemy Vision Workz', 'East West Dream Works']",tt7019942
+24049,Sivaji: The Boss,ta,ta,2007-06-08,1.2561,7.092,142,2,1,4,26,6,12000000,19000000,189,"['Action', 'Drama']",['AVM Productions'],tt0479751
+368006,24,ta,ta,2016-05-05,1.3661,7.201,132,0,3,2,12,4,10000000,15000000,164,"['Action', 'Science Fiction', 'Thriller']","['Studio Green', '2D Entertainment']",tt4981966
+432139,Vikram Vedha,ta,ta,2017-07-21,1.2224,7.224,225,2,2,3,14,2,0,0,147,"['Action', 'Thriller', 'Crime', 'Adventure']",['Y NOT Studios'],tt6148156
+576928,Asuran,ta,ta,2019-10-02,0.9835,7.566,106,2,1,4,22,4,0,0,141,"['Action', 'Drama']",['V Creations'],tt9477520
+143010,Thuppakki,ta,ta,2012-11-13,1.0973,7.301,113,2,1,4,20,6,11000000,23000000,170,"['Action', 'Thriller']","['V Creations', 'Gemini Productions']",tt2187153
+263475,Kaththi,ta,ta,2014-10-22,0.8946,7.215,107,2,1,4,13,5,1600000,0,167,"['Action', 'Drama']","['Lyca Productions', 'Ayngaran International']",tt3801314
+1041580,The Elephant Whisperers,ta,ta,2022-12-07,0.741,7.273,143,1,0,0,2,0,0,0,40,['Documentary'],['Sikhya Entertainment'],tt23628262
+69636,Ghajini,ta,ta,2005-10-14,0.8824,6.863,102,2,2,3,8,3,3200000,0,182,"['Action', 'Romance', 'Thriller']",['Sri Saravanaa Creaations'],tt0449951
+117319,Vishwaroopam,ta,ta,2013-01-25,0.5676,6.307,101,2,2,3,20,4,17000000,51000000,147,"['Action', 'Thriller']","['Aascar Films', 'PVP Cinema', 'Raajkamal Films International']",tt2199711
+579974,RRR,te,te,2022-03-24,12.7669,7.716,1599,2,2,3,31,6,69000000,160000000,187,"['Action', 'Adventure', 'Drama']",['DVV Entertainment'],tt8178634
+857598,Pushpa 2 - The Rule,te,te,2024-12-04,10.144,6.29,143,2,1,4,34,9,52900000,219000000,201,"['Action', 'Drama', 'Thriller', 'Crime']","['Mythri Movie Makers', 'Sukumar Writings', 'CineSpare']",tt16539454
+770906,Salaar: Part 1 - Ceasefire,te,te,2023-12-21,6.8985,6.674,112,2,2,3,34,5,34000000,87229100,175,"['Action', 'Crime', 'Drama']",['Hombale Films'],tt13927994
+801688,Kalki 2898-AD,te,te,2024-06-26,5.9965,6.389,176,2,1,4,53,8,75000000,141000000,176,"['Drama', 'Action', 'Fantasy', 'Science Fiction']","['Vyjayanthi Movies', 'Annapurna Studios']",tt12735488
+811941,Devara: Part 1,te,te,2024-09-26,4.639,6.922,217,2,0,5,31,9,31764000,54216867,175,"['Action', 'Drama']","['N. T. R. Arts', 'Yuvasudha Arts']",tt11821912
+350312,Bāhubali 2: The Conclusion,te,te,2017-04-27,4.8366,7.46,852,2,1,4,15,6,31000000,280700000,167,"['Action', 'Adventure', 'Fantasy']",['Arka Media Works'],tt4849438
+690957,Pushpa: The Rise,te,te,2021-12-16,4.8307,6.757,183,2,2,3,26,6,17200000,45800000,179,"['Action', 'Drama', 'Thriller']","['Mythri Movie Makers', 'Muttamsetty Media']",tt9389998
+256040,Bāhubali: The Beginning,te,te,2015-07-10,4.3086,7.533,928,2,3,2,25,8,25130430,90747520,159,"['Action', 'Drama']",['Arka Media Works'],tt2631186
+628241,Ala Vaikunthapurramuloo,te,te,2020-01-12,3.4323,6.588,108,2,1,4,30,8,11450000,34000000,165,"['Action', 'Comedy', 'Drama', 'Family']","['Geetha Arts', 'Haarika & Hassine Creations']",tt9537292
+894803,Sita Ramam,te,te,2022-08-05,3.2795,7.8,105,2,2,3,29,6,3400000,11800000,158,"['History', 'Romance', 'Drama']","['Vyjayanthi Movies', 'Swapna Cinema']",tt20850406
+454292,Saaho,te,te,2019-08-29,3.8255,5.7,111,2,2,3,25,5,51000000,55000000,171,"['Action', 'Adventure', 'Thriller']",['UV Creations'],tt6836936
+683342,V,te,te,2020-09-05,1.3375,6.604,130,2,2,3,21,4,0,0,140,"['Action', 'Crime', 'Thriller']",['Sri Venkateswara Creations'],tt11385128
+23790,Magadheera,te,te,2009-07-31,1.5819,7.2,142,2,1,4,18,5,4583500,15278500,164,['Action'],['Geetha Arts'],tt1447500
+148265,Eega,te,te,2012-07-05,1.1226,7.073,245,2,1,4,16,4,5990000,19450000,145,"['Fantasy', 'Action']",['Vaaraahi Chalana Chitram'],tt2258337
+473234,Arjun Reddy,te,te,2017-08-25,0.9767,6.983,118,2,2,3,18,9,780000,8000000,187,"['Drama', 'Romance']",['Bhadrakali Pictures'],tt7294534

@@ -1,0 +1,7 @@
+{
+  "name": "Cinema Dark",
+  "dataColors": ["#2a9d8f", "#e63946", "#457b9d", "#f4a261", "#888888"],
+  "background": "#0f0f0f",
+  "foreground": "#ffffff",
+  "tableAccent": "#2a9d8f"
+}
