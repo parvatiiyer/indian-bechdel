@@ -85,3 +85,18 @@ echo "TMDB_API_KEY=your_key_here" > .env
 python notebooks/01_data_collection.py
 # Then open notebooks 02, 03, 04 in Jupyter
 ```
+--
+# Indian Cinema Gender Analysis Dashboard
+--
+## Overview Dashboard
+--
+![Overview Dashboard](visuals/dashboard_overview.jpg)
+--
+## Box Office Analysis
+--
+![Box Office Analysis](visuals/box_office_analysis.jpg)
+--
+## Director Gender Analysis
+--
+![Director Gender Analysis](visuals/director_gender_analysis.jpg)
+--
