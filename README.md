@@ -70,25 +70,6 @@ Since bechdeltest.com's API was permanently shut down in 2025 and had minimal In
 
 ---
 
-## Repository Structure
-indian-cinema-bechdel/
-│
-├── data/
-│   ├── raw/                  # TMDB API pulls, unmodified
-│   └── processed/            # Cleaned and feature-engineered datasets
-│
-├── notebooks/
-│   ├── 01_data_collection.py
-│   ├── 02_cleaning_eda.ipynb
-│   ├── 03_regression.ipynb
-│   └── 04_dashboard.ipynb
-│
-├── visuals/                  # All exported charts and dashboard HTML
-├── README.md
-└── requirements.txt
-
----
-
 ## How to Run
 
 ```bash
